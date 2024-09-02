@@ -1,0 +1,1001 @@
+﻿SN,Movie,Worldwide (In Cr),India Net (In Cr),India Gross (In Cr),Overseas (In Cr),Budget ( In Cr),Verdict,Genre,Movie Rating
+1,Pathaan,"₹ 1,050.00",₹ 524.00,₹ 657.00,₹ 392.00,₹ 250.00,All Time Blockbuster,"Action,thriller",9.3
+2,Baahubali 2 The Conclusion,"₹ 1,788.00",₹ 510.00,"₹ 1,416.00",₹ 371.00,₹ 250.00,All Time Blockbuster,"Action,thriller",9.2
+3,KGF Chapter 2,"₹ 1,208.00",₹ 435.00,"₹ 1,000.00",₹ 207.00,₹ 100.00,All Time Blockbuster,"Action,thriller",9
+4,Dangal,"₹ 2,070.00",₹ 374.00,₹ 535.00,"₹ 1,535.00",₹ 70.00,All Time Blockbuster,Drama,9
+5,Sanju,₹ 588.00,₹ 342.00,₹ 438.00,₹ 150.00,₹ 100.00,All Time Blockbuster,"Crime, Drama",9
+6,PK,₹ 792.00,₹ 340.00,₹ 489.00,₹ 303.00,₹ 85.00,All Time Blockbuster,"Action, Drama",8.9
+7,Tiger Zinda Hai,₹ 558.00,₹ 339.00,₹ 433.00,₹ 124.00,₹ 210.00,Blockbuster,"Action,thriller",8.9
+8,Bajrangi Bhaijaan,₹ 922.00,₹ 320.00,₹ 432.00,₹ 489.00,₹ 90.00,All Time Blockbuster,"Biography, Drama",8.9
+9,War,₹ 471.00,₹ 303.00,₹ 375.00,₹ 96.00,₹ 150.00,Blockbuster,"Action, Adventure, thriller",8.8
+10,Padmaavat,₹ 585.00,₹ 302.00,₹ 400.00,₹ 185.00,₹ 215.00,Blockbuster,"Drama,biography",8.8
+11,Sultan,₹ 627.00,₹ 300.00,₹ 421.00,₹ 206.00,₹ 80.00,Blockbuster,"Action, Drama",8.8
+12,Kabir Singh,₹ 377.00,₹ 278.00,₹ 330.00,₹ 47.00,₹ 55.00,All Time Blockbuster,"Drama, Romance",8.8
+13,Tanhaji: The Unsung Warrior,₹ 361.00,₹ 277.00,₹ 325.00,₹ 36.00,₹ 150.00,Blockbuster,"Action,thriller",8.8
+14,RRR,"₹ 1,230.00",₹ 272.00,₹ 915.00,₹ 314.00,₹ 550.00,Blockbuster,"Action, Adventure, Drama",8.7
+15,Dhoom 3,₹ 558.00,₹ 271.00,₹ 372.00,₹ 186.00,₹ 175.00,All Time Blockbuster,"Action, thriller",8.7
+16,The Kashmir Files,₹ 341.00,₹ 252.00,₹ 295.00,₹ 46.00,₹ 20.00,All Time Blockbuster,"Biography, Crime,drama",8.7
+17,Brahmastra Part One: Shiva,₹ 431.00,₹ 249.00,₹ 318.00,₹ 113.00,₹ 350.00,Hit,"Action, romance,drama",8.7
+18,URI The Surgical Strike,₹ 341.00,₹ 244.00,₹ 293.00,₹ 48.00,₹ 70.00,All Time Blockbuster,"history,biography",8.7
+19,Simmba,₹ 390.00,₹ 240.00,₹ 295.00,₹ 95.00,₹ 90.00,Blockbuster,"Action,thriller",8.6
+20,Drishyam 2,₹ 342.00,₹ 239.00,₹ 282.00,₹ 59.00,₹ 50.00,All Time Blockbuster,"Action,thriller",8.6
+21,Kick,₹ 378.00,₹ 231.00,₹ 310.00,₹ 68.00,₹ 100.00,SuperHit,"action,thriller",8.6
+22,Krrish 3,₹ 374.00,₹ 231.00,₹ 313.00,₹ 61.00,₹ 94.00,Blockbuster,"Adventure, Drama, ",8.6
+23,Chennai Express,₹ 422.00,₹ 227.00,₹ 310.00,₹ 112.00,₹ 115.00,SuperHit,"Crime, Drama,action",8.6
+24,Bharat,₹ 321.00,₹ 212.00,₹ 251.00,₹ 70.00,₹ 165.00,Hit,"Animation, Adventure, Family",8.6
+25,Housefull 4,₹ 296.00,₹ 210.00,₹ 247.00,₹ 49.00,₹ 175.00,SuperHit,"Drama, War",8.6
+26,Prem Ratan Dhan Payo,₹ 405.00,₹ 210.00,₹ 310.00,₹ 95.00,₹ 180.00,SuperHit,"Crime, Drama, Fantasy",8.6
+27,Golmaal Again,₹ 308.00,₹ 205.00,₹ 262.00,₹ 45.00,₹ 80.00,Blockbuster,"Comedy, Drama, Romance",8.6
+28,Good Newwz,₹ 316.00,₹ 205.00,₹ 242.00,₹ 74.00,₹ 60.00,Blockbuster,"Crime, Drama, Mystery",8.6
+29,Mission Mangal,₹ 290.00,₹ 203.00,₹ 236.00,₹ 54.00,₹ 40.00,Blockbuster,"Crime, Drama, Thriller",8.6
+30,3 Idiots,₹ 460.00,₹ 202.00,₹ 274.00,₹ 186.00,₹ 55.00,All Time Blockbuster,"Action, Adventure, Fantasy",8.6
+31,Happy New Year,₹ 397.00,₹ 199.00,₹ 295.00,₹ 102.00,₹ 150.00,Hit,"Action, Drama, Mystery",8.6
+32,Ek Tha Tiger,₹ 320.00,₹ 198.00,₹ 263.00,₹ 57.00,₹ 75.00,Blockbuster,"Action, Adventure, Drama",8.6
+33,Sooryavanshi,₹ 293.00,₹ 195.00,₹ 230.00,₹ 62.00,₹ 180.00,SuperHit,"Drama, Family, Fantasy",8.6
+34,2,₹ 744.00,₹ 190.00,₹ 551.00,₹ 193.00,₹ 543.00,Average,"Crime, Drama, Thriller",8.5
+35,Yeh Jawaani Hai Deewani,₹ 318.00,₹ 188.00,₹ 242.00,₹ 76.00,₹ 75.00,Blockbuster,"Drama, Music",8.5
+36,Bhool Bhulaiyaa 2,₹ 265.00,₹ 184.00,₹ 216.00,₹ 49.00,₹ 80.00,Blockbuster,"Biography, Comedy, Drama",8.5
+37,Bajirao Mastani,₹ 362.00,₹ 184.00,₹ 263.00,₹ 99.00,₹ 145.00,Hit,"Drama, Mystery, ",8.5
+38,Bang Bang!,₹ 340.00,₹ 174.00,₹ 270.00,₹ 70.00,₹ 160.00,Hit,"Crime, Drama, Thriller",8.5
+39,Race 3,₹ 300.00,₹ 169.00,₹ 217.00,₹ 83.00,₹ 170.00,Average,"Biography, Drama, Music",8.5
+40,Baaghi 2,₹ 257.00,₹ 165.00,₹ 211.00,₹ 45.00,₹ 75.00,Blockbuster,"Action, Adventure, Drama",8.5
+41,Raees,₹ 285.00,₹ 164.00,₹ 227.00,₹ 57.00,₹ 92.00,Hit,Drama,8.5
+42,Kesari,₹ 208.00,₹ 155.00,₹ 183.00,₹ 25.00,₹ 100.00,Hit,"Crime, Mystery, Thriller",8.5
+43,Total Dhamaal,₹ 232.00,₹ 155.00,₹ 183.00,₹ 48.00,₹ 105.00,SuperHit,"Action, Crime, Drama",8.5
+44,Dabangg 2,₹ 265.00,₹ 155.00,₹ 226.00,₹ 39.00,₹ 84.00,Blockbuster,"Animation, Adventure, Drama",8.5
+45,Chhichhore,₹ 211.00,₹ 153.00,₹ 180.00,₹ 31.00,₹ 70.00,Blockbuster,"Action, ",8.5
+46,Tanu Weds Manu Returns,₹ 258.00,₹ 150.00,₹ 214.00,₹ 44.00,₹ 39.00,Blockbuster,"Drama, Romance",8.5
+47,Bodyguard,₹ 230.00,₹ 148.00,₹ 189.00,₹ 41.00,₹ 60.00,Blockbuster,"Animation, Drama, War",8.5
+48,Dilwale,₹ 388.00,₹ 148.00,₹ 212.00,₹ 176.00,₹ 165.00,Average,"Adventure, Comedy, ",8.5
+49,Super 30,₹ 210.00,₹ 147.00,₹ 171.00,₹ 39.00,₹ 60.00,SuperHit,Western,8.5
+50,Tu Jhoothi Main Makkar,₹ 223.00,₹ 147.00,₹ 175.00,₹ 48.00,₹ 70.00,Hit,"Horror, Mystery, Thriller",8.5
+51,Dabangg 3,₹ 218.00,₹ 146.00,₹ 178.00,₹ 40.00,₹ 90.00,Average,"Drama, Romance, War",8.5
+52,Saaho,₹ 451.00,₹ 145.00,₹ 359.00,₹ 92.00,₹ 350.00,Below Average,"Comedy, Drama, Family",8.5
+53,Thugs Of Hindostan,₹ 327.00,₹ 145.00,₹ 194.00,₹ 133.00,₹ 300.00,Disaster,"Comedy, Drama, Romance",8.5
+54,Dream Girl,₹ 195.00,₹ 141.00,₹ 163.00,₹ 32.00,₹ 30.00,SuperHit,Drama,8.4
+55,Singham Returns,₹ 216.00,₹ 140.00,₹ 200.00,₹ 16.00,₹ 105.00,SuperHit,"Biography, Drama, History",8.4
+56,Dabangg,₹ 215.00,₹ 140.00,₹ 207.00,₹ 7.00,₹ 42.00,Blockbuster,"Action, Crime, Drama",8.4
+57,Gully Boy,₹ 235.00,₹ 139.00,₹ 164.00,₹ 71.00,₹ 60.00,SuperHit,"Animation, Drama, Fantasy",8.4
+58,Judwaa 2,₹ 227.00,₹ 138.00,₹ 192.00,₹ 35.00,₹ 65.00,SuperHit,"Action, Biography, Drama",8.4
+59,Badhaai Ho,₹ 220.00,₹ 137.00,₹ 176.00,₹ 44.00,₹ 23.00,Blockbuster,"Animation, Action, Adventure",8.4
+60,The Kerala Story,₹ 164.00,₹ 135.00,₹ 161.00,₹ 3.00,₹ 15.00,Blockbuster,"Action, Adventure, Drama",8.4
+61,Toilet Ek Prem Katha,₹ 316.00,₹ 134.00,₹ 186.00,₹ 130.00,₹ 18.00,SuperHit,"Action, Adventure, ",8.4
+62,Rowdy Rathore,₹ 198.00,₹ 133.00,₹ 172.00,₹ 26.00,₹ 45.00,Blockbuster,"Animation, Adventure, Family",8.4
+63,M.S. Dhoni: The Untold Story,₹ 215.00,₹ 133.00,₹ 184.00,₹ 30.00,₹ 104.00,Hit,"Drama, Western",8.4
+64,Gangubai Kathiawadi,₹ 211.00,₹ 131.00,₹ 155.00,₹ 56.00,₹ 180.00,Hit,"Action, Adventure",8.4
+65,Stree,₹ 182.00,₹ 129.00,₹ 167.00,₹ 15.00,₹ 30.00,Blockbuster,"Comedy, Drama",8.4
+66,Airlift,₹ 228.00,₹ 128.00,₹ 183.00,₹ 45.00,₹ 30.00,SuperHit,"Drama, Family",8.4
+67,Avatar: The Way of Water,"₹ 17,380.00",₹ 127.00,₹ 477.00,"₹ 16,902.00","₹ 3,200.00",Blockbuster,"Animation, Adventure, Family",8.4
+68,Rustom,₹ 216.00,₹ 127.00,₹ 177.00,₹ 39.00,₹ 50.00,SuperHit,"Drama, Mystery, Thriller",8.4
+69,Raazi,₹ 195.00,₹ 123.00,₹ 158.00,₹ 37.00,₹ 37.00,Blockbuster,"Action, Drama, Mystery",8.4
+70,Ready,₹ 185.00,₹ 120.00,₹ 153.00,₹ 31.00,₹ 40.00,Blockbuster,"Mystery, Thriller",8.4
+71,Jab Tak Hai Jaan,₹ 235.00,₹ 120.00,₹ 167.00,₹ 67.00,₹ 50.00,SuperHit,"Animation, Action, Adventure",8.4
+72,Tubelight,₹ 211.00,₹ 119.00,₹ 165.00,₹ 45.00,₹ 100.00,Average,"Crime, Drama",8.4
+73,Baahubali,₹ 650.00,₹ 118.00,₹ 516.00,₹ 134.00,₹ 180.00,Blockbuster,"Action, Adventure",8.4
+74,Agneepath,₹ 195.00,₹ 118.00,₹ 159.00,₹ 36.00,₹ 71.00,SuperHit,"Drama, Horror",8.4
+75,Badrinath Ki Dulhania,₹ 201.00,₹ 117.00,₹ 162.00,₹ 38.00,₹ 44.00,SuperHit,"Drama, Mystery, War",8.4
+76,Goliyon Ki Rasleela Ram-Leela,₹ 218.00,₹ 117.00,₹ 158.00,₹ 59.00,₹ 88.00,Hit,"Horror, ",8.4
+77,Jai Ho,₹ 186.00,₹ 117.00,₹ 150.00,₹ 36.00,₹ 65.00,Hit,"Drama, Musical",8.4
+78,Jolly LLB 2,₹ 197.00,₹ 117.00,₹ 162.00,₹ 34.00,₹ 30.00,SuperHit,"Crime, Drama, Mystery",8.4
+79,Avengers End Game,"₹ 18,970.00",₹ 116.00,₹ 445.00,"₹ 13,335.00","₹ 2,500.00",All Time Blockbuster,Comedy,8.4
+80,Bala,₹ 162.00,₹ 116.00,₹ 135.00,₹ 27.00,₹ 35.00,SuperHit,"Crime, Drama, Mystery",8.4
+81,Ra.One,₹ 206.00,₹ 116.00,₹ 156.00,₹ 49.00,₹ 130.00,Below Average,"Drama, War",8.4
+82,Ghajini,₹ 194.00,₹ 114.00,₹ 157.00,₹ 36.00,₹ 52.00,Blockbuster,"Mystery, Thriller",8.4
+83,Ae Dil Hai Mushkil,₹ 240.00,₹ 113.00,₹ 158.00,₹ 82.00,₹ 70.00,SuperHit,"Drama, Film-Noir",8.4
+84,Holiday,₹ 178.00,₹ 112.00,₹ 153.00,₹ 24.00,₹ 50.00,SuperHit,"Comedy, Drama, War",8.4
+85,Barfi!,₹ 175.00,₹ 112.00,₹ 145.00,₹ 30.00,₹ 40.00,SuperHit,"Drama, Thriller, War",8.3
+86,Housefull 2,₹ 188.00,₹ 112.00,₹ 151.00,₹ 36.00,₹ 72.00,SuperHit,"Drama, Fantasy, Horror",8.3
+87,Housefull 3,₹ 185.00,₹ 110.00,₹ 154.00,₹ 31.00,₹ 85.00,Hit,"Crime, Drama, Music",8.3
+88,Gold,₹ 158.00,₹ 109.00,₹ 141.00,₹ 17.00,₹ 75.00,Hit,"Crime, Drama, Thriller",8.3
+89,Kisi Ka Bhai Kisi Ki Jaan,₹ 182.00,₹ 109.00,₹ 130.00,₹ 52.00,₹ 100.00,Below Average,Drama,8.3
+90,Sonu Ke Titu Ki Sweety,₹ 156.00,₹ 108.00,₹ 139.00,₹ 17.00,₹ 40.00,Blockbuster,Drama,8.3
+91,Bhaag Milkha Bhaag,₹ 168.00,₹ 108.00,₹ 146.00,₹ 21.00,₹ 30.00,SuperHit,"Drama, Mystery, War",8.3
+92,Don 2: The Chase Continues,₹ 210.00,₹ 108.00,₹ 144.00,₹ 65.00,₹ 76.00,Hit,Drama,8.3
+93,Golmaal 3,₹ 162.00,₹ 106.00,₹ 143.00,₹ 18.00,₹ 40.00,Blockbuster,"Drama, Family",8.3
+94,Pushpa: The Rise (Part 1),₹ 350.00,₹ 106.00,₹ 313.00,₹ 36.00,₹ 150.00,SuperHit,"Adventure, Drama, War",8.3
+95,ABCD 2,₹ 166.00,₹ 106.00,₹ 146.00,₹ 19.00,₹ 65.00,SuperHit,"Drama, Romance, ",8.3
+96,Ek Villain,₹ 155.00,₹ 105.00,₹ 142.00,₹ 12.00,₹ 39.00,SuperHit,"Comedy, Romance",8.3
+97,Son Of Sardaar,₹ 150.00,₹ 105.00,₹ 141.00,₹ 8.00,₹ 40.00,SuperHit,"Comedy, Crime",8.3
+98,Kaabil,₹ 178.00,₹ 104.00,₹ 145.00,₹ 32.00,₹ 35.00,Hit,Drama,8.3
+99,De De Pyaar De,₹ 139.00,₹ 104.00,₹ 113.00,₹ 26.00,₹ 75.00,Hit,Drama,8.3
+100,83,₹ 193.00,₹ 104.00,₹ 129.00,₹ 64.00,₹ 220.00,Disaster,"Drama, Romance",8.3
+101,Bol Bachchan,₹ 175.00,₹ 103.00,₹ 144.00,₹ 30.00,₹ 65.00,Hit,"Drama, Family, Sport",8.3
+102,Raid,₹ 154.00,₹ 103.00,₹ 132.00,₹ 22.00,₹ 35.00,SuperHit,"Animation, Adventure, Comedy",8.3
+103,2 States,₹ 173.00,₹ 102.00,₹ 142.00,₹ 30.00,₹ 50.00,SuperHit,"Biography, Drama, History",8.3
+104,Grand Masti,₹ 145.00,₹ 102.00,₹ 130.00,₹ 14.00,₹ 35.00,SuperHit,"Crime, Drama, Thriller",8.3
+105,Race 2,₹ 162.00,₹ 101.00,₹ 131.00,₹ 30.00,₹ 85.00,Hit,"Drama, War",8.3
+106,Singham,₹ 151.00,₹ 100.00,₹ 130.00,₹ 20.00,₹ 52.00,SuperHit,"Drama, Thriller, War",8.3
+107,Shivaay,₹ 147.00,₹ 100.00,₹ 138.00,₹ 8.00,₹ 100.00,Below Average,"Action, Adventure, ",8.3
+108,Batla House,₹ 127.00,₹ 99.00,₹ 116.00,₹ 11.00,₹ 50.00,Hit,"Biography, Drama, History",8.3
+109,Zero,₹ 178.00,₹ 96.00,₹ 120.00,₹ 57.00,₹ 200.00,Disaster,"Crime, Drama",8.3
+110,Welcome Back,₹ 168.00,₹ 96.00,₹ 130.00,₹ 38.00,₹ 90.00,Average,"Action, Adventure, Fantasy",8.3
+111,Baaghi 3,₹ 137.00,₹ 96.00,₹ 114.00,₹ 23.00,₹ 100.00,Below Average,"Adventure, Drama, Thriller",8.3
+112,Baby,₹ 142.00,₹ 95.00,₹ 129.00,₹ 13.00,₹ 59.00,Hit,"Crime, Drama",8.3
+113,Manikarnika: The Queen of Jhansi,₹ 142.00,₹ 94.00,₹ 116.00,₹ 25.00,₹ 101.00,Average,"Comedy, Crime, Drama",8.3
+114,Luka Chuppi,₹ 128.00,₹ 94.00,₹ 111.00,₹ 17.00,₹ 20.00,SuperHit,"Crime, Drama, ",8.3
+115,Raajneeti,₹ 145.00,₹ 93.00,₹ 126.00,₹ 19.00,₹ 60.00,SuperHit,"Adventure, ",8.3
+116,Talaash,₹ 175.00,₹ 93.00,₹ 121.00,₹ 53.00,₹ 60.00,Hit,Western,8.3
+117,Satyameva Jayate,₹ 121.00,₹ 90.00,₹ 116.00,₹ 5.00,₹ 45.00,Hit,"Adventure, Biography, Drama",8.3
+118,Bholaa,₹ 123.00,₹ 90.00,₹ 108.00,₹ 15.00,₹ 100.00,Average,"Comedy, Drama, Romance",8.3
+119,Singh Is Bliing,₹ 146.00,₹ 90.00,₹ 120.00,₹ 26.00,₹ 76.00,Average,"Adventure, Mystery, Thriller",8.3
+120,Zindagi Na Milegi Dobara,₹ 153.00,₹ 89.00,₹ 121.00,₹ 31.00,₹ 55.00,Hit,"Mystery, Romance, Thriller",8.3
+121,Badla,₹ 140.00,₹ 88.00,₹ 104.00,₹ 36.00,₹ 20.00,SuperHit,"Comedy, Musical, Romance",8.3
+122,Gabbar is Back,₹ 135.00,₹ 87.00,₹ 118.00,₹ 17.00,₹ 72.00,Hit,Drama,8.3
+123,Rab Ne Bana Di Jodi,₹ 151.00,₹ 85.00,₹ 114.00,₹ 36.00,₹ 35.00,Blockbuster,Drama,8.3
+124,Kantara,₹ 407.00,₹ 84.00,₹ 363.00,₹ 44.00,₹ 16.00,All Time Blockbuster,"Crime, Drama, Film-Noir",8.3
+125,Kalank,₹ 146.00,₹ 84.00,₹ 99.00,₹ 47.00,₹ 150.00,Flop,"Drama, Mystery",8.3
+126,Pati Patni Aur Woh,₹ 109.00,₹ 84.00,₹ 99.00,₹ 10.00,₹ 40.00,Hit,"Crime, Mystery, Thriller",8.3
+127,JugJugg Jeeyo,₹ 137.00,₹ 84.00,₹ 99.00,₹ 38.00,₹ 100.00,Above Average,"Drama, ",8.3
+128,Fan,₹ 182.00,₹ 84.00,₹ 113.00,₹ 69.00,₹ 85.00,Average,"Comedy, Drama, Family",8.3
+129,My Name Is Khan,₹ 224.00,₹ 82.00,₹ 111.00,₹ 112.00,₹ 85.00,Hit,"Comedy, Drama",8.2
+130,Brothers,₹ 140.00,₹ 82.00,₹ 114.00,₹ 25.00,₹ 105.00,Average,"Action, Drama, War",8.2
+131,Padman,₹ 205.00,₹ 81.00,₹ 105.00,₹ 100.00,₹ 20.00,SuperHit,"Action, Drama",8.2
+132,Oh My God,₹ 149.00,₹ 81.00,₹ 109.00,₹ 40.00,₹ 20.00,Blockbuster,"Biography, Comedy, Drama",8.2
+133,Veere Di Wedding,₹ 140.00,₹ 81.00,₹ 105.00,₹ 35.00,₹ 30.00,SuperHit,"Comedy, Crime, Drama",8.2
+134,Sairat,₹ 110.00,₹ 80.00,₹ 104.00,₹ 6.00,₹ 4.00,Blockbuster,"Crime, Drama, Mystery",8.2
+135,Dhoom 2,₹ 147.00,₹ 80.00,₹ 109.00,₹ 38.00,₹ 35.00,Blockbuster,"Action, Drama",8.2
+136,Fukrey Returns,₹ 112.00,₹ 80.00,₹ 108.00,₹ 4.00,₹ 22.00,SuperHit,"Animation, Adventure, Comedy",8.2
+137,The Dirty Picture,₹ 116.00,₹ 79.00,₹ 107.00,₹ 8.00,₹ 28.00,SuperHit,"Crime, Drama, Mystery",8.2
+138,Piku,₹ 141.00,₹ 79.00,₹ 107.00,₹ 34.00,₹ 40.00,Hit,"Adventure, Comedy, Drama",8.2
+139,Sui Dhaaga - Made In India,₹ 124.00,₹ 79.00,₹ 100.00,₹ 24.00,₹ 40.00,Hit,"Drama, War",8.2
+140,Vikram Vedha,₹ 135.00,₹ 78.00,₹ 93.00,₹ 42.00,₹ 150.00,Below Average,"Biography, Drama, Sport",8.2
+141,Gunday,₹ 130.00,₹ 78.00,₹ 106.00,₹ 24.00,₹ 51.00,Hit,"Action, Comedy, Crime",8.2
+142,Om Shanti Om,₹ 148.00,₹ 78.00,₹ 105.00,₹ 42.00,₹ 38.00,Blockbuster,Drama,8.2
+143,Baadshaho,₹ 123.00,₹ 78.00,₹ 108.00,₹ 15.00,₹ 85.00,Flop,"Action, Biography, Crime",8.2
+144,Aashiqui 2,₹ 109.00,₹ 78.00,₹ 105.00,₹ 3.00,₹ 15.00,Blockbuster,"Drama, Mystery, Romance",8.2
+145,Dil Dhadakne Do,₹ 150.00,₹ 76.00,₹ 106.00,₹ 43.00,₹ 83.00,Below Average,"Action, Drama, Sport",8.2
+146,Humpty Sharma Ki Dulhania,₹ 119.00,₹ 76.00,₹ 106.00,₹ 12.00,₹ 33.00,Hit,"Mystery, Thriller",8.2
+147,Gadar: Ek Prem Katha,₹ 132.00,₹ 76.00,₹ 127.00,₹ 5.00,₹ 18.00,All Time Blockbuster,"Animation, Adventure, Comedy",8.2
+148,Baaghi,₹ 125.00,₹ 76.00,₹ 102.00,₹ 23.00,₹ 37.00,Hit,"Biography, Crime, Drama",8.2
+149,Housefull,₹ 119.00,₹ 75.00,₹ 102.00,₹ 16.00,₹ 45.00,SuperHit,"Drama, Family, Sport",8.2
+150,Neerja,₹ 120.00,₹ 75.00,₹ 101.00,₹ 18.00,₹ 25.00,SuperHit,Drama,8.2
+151,Lage Raho Munna Bhai,₹ 124.00,₹ 74.00,₹ 100.00,₹ 24.00,₹ 22.00,Blockbuster,"Drama, Fantasy, War",8.2
+152,Ram Setu,₹ 96.00,₹ 74.00,₹ 89.00,₹ 7.00,₹ 150.00,Below Average,"Animation, Adventure, Comedy",8.2
+153,Andhadhun,₹ 438.00,₹ 74.00,₹ 95.00,₹ 343.00,₹ 17.00,SuperHit,"Action, Drama, ",8.2
+154,Dhadak,₹ 113.00,₹ 74.00,₹ 95.00,₹ 18.00,₹ 30.00,Hit,"Comedy, Crime, Drama",8.2
+155,Street Dancer 3D,₹ 102.00,₹ 73.00,₹ 87.00,₹ 15.00,₹ 100.00,Below Average,Drama,8.2
+156,Kapoor & Sons,₹ 143.00,₹ 73.00,₹ 98.00,₹ 44.00,₹ 35.00,Hit,"Action, Adventure",8.2
+157,Hum Aapke Hain Koun..!,₹ 128.00,₹ 72.00,₹ 117.00,₹ 11.00,₹ 6.00,All Time Blockbuster,Drama,8.2
+158,Entertainment,₹ 104.00,₹ 72.00,₹ 97.00,₹ 6.00,₹ 80.00,Flop,"Biography, Drama, History",8.2
+159,Krrish,₹ 121.00,₹ 71.00,₹ 100.00,₹ 20.00,₹ 35.00,Blockbuster,"Animation, Adventure, Family",8.2
+160,Cocktail,₹ 121.00,₹ 71.00,₹ 96.00,₹ 25.00,₹ 45.00,Hit,"Biography, Drama",8.2
+161,Student Of The Year 2,₹ 95.00,₹ 70.00,₹ 84.00,₹ 11.00,₹ 75.00,Below Average,"Action, Comedy, Crime",8.2
+162,Khiladi 786,₹ 97.00,₹ 70.00,₹ 94.00,₹ 2.00,₹ 35.00,SuperHit,"Action, Comedy, Crime",8.2
+163,Welcome,₹ 119.00,₹ 70.00,₹ 94.00,₹ 24.00,₹ 48.00,SuperHit,"Crime, Drama, Mystery",8.2
+164,Dishoom,₹ 119.00,₹ 70.00,₹ 94.00,₹ 25.00,₹ 55.00,Average,"Crime, Drama, Thriller",8.2
+165,Student Of The Year,₹ 96.00,₹ 70.00,₹ 92.00,₹ 4.00,₹ 59.00,Hit,"Crime, Drama, Thriller",8.2
+166,Raaz 3,₹ 99.00,₹ 69.00,₹ 94.00,₹ 4.00,₹ 28.00,SuperHit,"Crime, Drama",8.2
+167,Hindi Medium,₹ 334.00,₹ 69.00,₹ 96.00,₹ 237.00,₹ 23.00,SuperHit,"Action, Comedy, Romance",8.2
+168,Bhediya,₹ 96.00,₹ 68.00,₹ 81.00,₹ 15.00,₹ 60.00,Average,"Drama, Western",8.2
+169,Kedarnath,₹ 96.00,₹ 68.00,₹ 85.00,₹ 11.00,₹ 50.00,Hit,"Action, Adventure",8.2
+170,Dear Zindagi,₹ 136.00,₹ 68.00,₹ 92.00,₹ 43.00,₹ 30.00,Hit,"Comedy, Crime, Drama",8.2
+171,Singh Is Kinng,₹ 122.00,₹ 67.00,₹ 94.00,₹ 28.00,₹ 50.00,SuperHit,"Animation, Family, Fantasy",8.2
+172,Chak De India,₹ 109.00,₹ 67.00,₹ 91.00,₹ 17.00,₹ 20.00,SuperHit,"Action, Thriller",8.2
+173,Tamasha,₹ 136.00,₹ 67.00,₹ 87.00,₹ 49.00,₹ 87.00,Flop,"Action, Drama, War",8.2
+174,Drishyam,₹ 110.00,₹ 67.00,₹ 90.00,₹ 19.00,₹ 48.00,Hit,"Biography, Drama, Sport",8.2
+175,Special 26,₹ 103.00,₹ 66.00,₹ 90.00,₹ 12.00,₹ 45.00,Hit,"Drama, ",8.2
+176,Love Aaj Kal,₹ 117.00,₹ 66.00,₹ 86.00,₹ 31.00,₹ 50.00,Hit,"Drama, Music",8.2
+177,Article 15,₹ 94.00,₹ 66.00,₹ 79.00,₹ 15.00,₹ 25.00,SuperHit,"Biography, Drama, History",8.2
+178,R... Rajkumar,₹ 100.00,₹ 65.00,₹ 88.00,₹ 11.00,₹ 56.00,Average,"Action, Adventure, Comedy",8.2
+179,Samrat Prithviraj,₹ 85.00,₹ 65.00,₹ 77.00,₹ 8.00,₹ 220.00,Disaster,"Adventure, Comedy, Fantasy",8.2
+180,Parmanu The Story Of Pokhran,₹ 91.00,₹ 65.00,₹ 84.00,₹ 7.00,₹ 45.00,Hit,"Adventure, Drama, History",8.2
+181,Pink,₹ 104.00,₹ 65.00,₹ 88.00,₹ 15.00,₹ 23.00,Hit,"Crime, Drama",8.2
+182,Jab Harry Met Sejal,₹ 111.00,₹ 64.00,₹ 89.00,₹ 21.00,₹ 1.00,flop,"Action, Drama, Thriller",8.2
+183,Pyaar Ka Punchnama 2,₹ 88.00,₹ 64.00,₹ 86.00,₹ 1.00,₹ 22.00,SuperHit,"Drama, War",8.2
+184,Ajab Prem Ki Ghazab Kahani,₹ 101.00,₹ 64.00,₹ 83.00,₹ 18.00,₹ 25.00,SuperHit,"Comedy, Music, Romance",8.2
+185,Satyagraha,₹ 91.00,₹ 63.00,₹ 86.00,₹ 4.00,₹ 60.00,Average,"Drama, Romance",8.2
+186,Humshakals,₹ 103.00,₹ 63.00,₹ 85.00,₹ 17.00,₹ 64.00,Below Average,"Drama, Fantasy, History",8.2
+187,Secret Superstar,₹ 912.00,₹ 63.00,₹ 81.00,₹ 831.00,₹ 15.00,SuperHit,"Crime, Drama, Thriller",8.2
+188,Taare Zameen Par,₹ 98.00,₹ 62.00,₹ 83.00,₹ 15.00,₹ 12.00,SuperHit,"Crime, Thriller",8.2
+189,Shubh Mangal Zyada Saavdhan,₹ 83.00,₹ 62.00,₹ 73.00,₹ 10.00,₹ 35.00,Average,Drama,8.2
+190,Rockstar,₹ 108.00,₹ 61.00,₹ 83.00,₹ 25.00,₹ 60.00,Average,"Crime, Drama, Mystery",8.2
+191,Laal Singh Chaddha,₹ 133.00,₹ 61.00,₹ 72.00,₹ 61.00,₹ 180.00,Disaster,Drama,8.2
+192,Once Upon Ay Time In Mumbai Dobaara!,₹ 91.00,₹ 61.00,₹ 82.00,₹ 9.00,₹ 75.00,Flop,"Adventure, Drama, Western",8.2
+193,Tees Maar Khan,₹ 100.00,₹ 60.00,₹ 82.00,₹ 17.00,₹ 35.00,Hit,"Comedy, War",8.2
+194,Queen,₹ 93.00,₹ 60.00,₹ 82.00,₹ 10.00,₹ 20.00,SuperHit,"Adventure, Comedy, Drama",8.2
+195,Wanted,₹ 87.00,₹ 60.00,₹ 81.00,₹ 5.00,₹ 50.00,Hit,"Action, Comedy, Romance",8.2
+196,Race,₹ 103.00,₹ 60.00,₹ 84.00,₹ 18.00,₹ 45.00,Hit,"Drama, Romance",8.1
+197,Udta Punjab,₹ 97.00,₹ 60.00,₹ 83.00,₹ 13.00,₹ 47.00,Hit,"Drama, Thriller",8.1
+198,Half Girlfriend,₹ 97.00,₹ 60.00,₹ 81.00,₹ 16.00,₹ 58.00,Average,"Animation, Drama, Family",8.1
+199,Befikre,₹ 99.00,₹ 60.00,₹ 83.00,₹ 15.00,₹ 64.00,Below Average,"Crime, Drama, Mystery",8.1
+200,Raanjhanaa,₹ 93.00,₹ 60.00,₹ 81.00,₹ 12.00,₹ 30.00,Hit,"Drama, Romance, Thriller",8.1
+201,Partner,₹ 99.00,₹ 60.00,₹ 83.00,₹ 16.00,₹ 28.00,SuperHit,Drama,8.1
+202,Besharam,₹ 95.00,₹ 59.00,₹ 80.00,₹ 14.00,₹ 83.00,Flop,"Action, Crime, Drama",8.1
+203,Malang,₹ 80.00,₹ 59.00,₹ 70.00,₹ 10.00,₹ 50.00,Above Average,"Action, Drama, ",8.1
+204,Shootout at Wadala,₹ 83.00,₹ 58.00,₹ 79.00,₹ 4.00,₹ 45.00,Above Average,"Drama, Thriller",8.1
+205,Mere Brother Ki Dulhan,₹ 94.00,₹ 58.00,₹ 78.00,₹ 15.00,₹ 28.00,Hit,"Comedy, Drama, Thriller",8.1
+206,Mohenjo Daro,₹ 107.00,₹ 58.00,₹ 78.00,₹ 29.00,₹ 120.00,Flop,"Animation, Adventure, Comedy",8.1
+207,Action Jackson,₹ 88.00,₹ 57.00,₹ 78.00,₹ 10.00,₹ 80.00,Flop,Drama,8.1
+208,Mary Kom,₹ 91.00,₹ 56.00,₹ 76.00,₹ 15.00,₹ 30.00,Hit,"Comedy, Drama, Musical",8.1
+209,Haider,₹ 79.00,₹ 55.00,₹ 75.00,₹ 3.00,₹ 45.00,Above Average,"Comedy, Drama, Fantasy",8.1
+210,Jodhaa Akbar,₹ 106.00,₹ 55.00,₹ 75.00,₹ 31.00,₹ 45.00,Above Average,"Adventure, Comedy, Crime",8.1
+211,Mubarakan,₹ 93.00,₹ 55.00,₹ 76.00,₹ 16.00,₹ 63.00,Flop,"Drama, Mystery, Thriller",8.1
+212,Once Upon a Time in Mumbaai,₹ 85.00,₹ 55.00,₹ 74.00,₹ 10.00,₹ 36.00,Hit,"Animation, Drama, Fantasy",8.1
+213,Jaane Tu... Ya Jaane Na,₹ 82.00,₹ 55.00,₹ 74.00,₹ 7.00,₹ 15.00,SuperHit,"Biography, Drama, History",8.1
+214,Yamla Pagla Deewana,₹ 88.00,₹ 55.00,₹ 74.00,₹ 14.00,₹ 28.00,Hit,"Animation, Adventure, Comedy",8.1
+215,Kabhi Khushi Kabhie Gham,₹ 119.00,₹ 54.00,₹ 77.00,₹ 42.00,₹ 40.00,Blockbuster,"Comedy, Drama, Romance",8.1
+216,Boss,₹ 84.00,₹ 54.00,₹ 73.00,₹ 11.00,₹ 70.00,Flop,"Biography, Drama, History",8.1
+217,Phantom,₹ 84.00,₹ 54.00,₹ 73.00,₹ 11.00,₹ 70.00,Flop,"Action, Biography, Drama",8.1
+218,Jagga Jasoos,₹ 83.00,₹ 54.00,₹ 75.00,₹ 8.00,₹ 125.00,Flop,"Action, Biography, Drama",8.1
+219,Dilwale Dulhania Le Jayenge,₹ 102.00,₹ 53.00,₹ 89.00,₹ 13.00,₹ 4.00,All Time Blockbuster,"Biography, Crime, Drama",8.1
+220,Rang De Basanti,₹ 96.00,₹ 52.00,₹ 74.00,₹ 22.00,₹ 28.00,Hit,"Animation, Adventure, Drama",8.1
+221,Heropanti,₹ 75.00,₹ 52.00,₹ 71.00,₹ 4.00,₹ 25.00,Hit,"Mystery, Thriller",8.1
+222,Ki & Ka,₹ 99.00,₹ 52.00,₹ 70.00,₹ 28.00,₹ 30.00,Hit,"Comedy, Drama",8.1
+223,102 Not Out,₹ 115.00,₹ 52.00,₹ 67.00,₹ 48.00,₹ 34.00,Hit,"Crime, Drama, Mystery",8.1
+224,Fanaa,₹ 102.00,₹ 51.00,₹ 70.00,₹ 32.00,₹ 30.00,SuperHit,"Action, Adventure, ",8.1
+225,Hate Story 3,₹ 75.00,₹ 51.00,₹ 69.00,₹ 5.00,₹ 20.00,Hit,"Action, Crime, Drama",8.1
+226,Delhi Belly,₹ 87.00,₹ 51.00,₹ 69.00,₹ 17.00,₹ 23.00,Hit,Drama,8.1
+227,Kahaani,₹ 79.00,₹ 51.00,₹ 69.00,₹ 9.00,₹ 15.00,Hit,"Adventure, Drama, Fantasy",8.1
+228,Golmaal Returns,₹ 82.00,₹ 51.00,₹ 69.00,₹ 12.00,₹ 35.00,SuperHit,"Drama, Music",8.1
+229,Main Tera Hero,₹ 77.00,₹ 50.00,₹ 68.00,₹ 8.00,₹ 40.00,Hit,"Biography, Drama, Family",8.1
+230,Sachin A Billion Dreams,₹ 70.00,₹ 50.00,₹ 65.00,₹ 5.00,₹ 39.00,Average,"Animation, Comedy, Drama",8.1
+231,Sachin: A Billion Dreams,₹ 70.00,₹ 50.00,₹ 65.00,₹ 5.00,₹ 39.00,Average,"Animation, Action, Adventure",8.1
+232,Bachchhan Paandey,₹ 70.00,₹ 50.00,₹ 59.00,₹ 10.00,₹ 165.00,Disaster,"Adventure, Biography, Drama",8.1
+233,Don: The Chase Begins Again,₹ 104.00,₹ 50.00,₹ 67.00,₹ 36.00,₹ 35.00,Hit,"Crime, Drama, Thriller",8.1
+234,Badlapur,₹ 78.00,₹ 50.00,₹ 67.00,₹ 11.00,₹ 20.00,Hit,"Comedy, Drama, Romance",8.1
+235,Kis Kisko Pyaar Karoon,₹ 72.00,₹ 49.00,₹ 67.00,₹ 4.00,₹ 18.00,Hit,"Drama, Sport",8.1
+236,Spider-Man: No Way Home,"₹ 10,170.00",₹ 49.00,₹ 261.00,"₹ 5,640.00","₹ 1,500.00",flop,"Biography, Drama, History",8.1
+237,Kai Po Che!,₹ 74.00,₹ 49.00,₹ 66.00,₹ 7.00,₹ 30.00,Hit,"Action, Drama, War",8.1
+238,Bhool Bhulaiyaa,₹ 82.00,₹ 49.00,₹ 68.00,₹ 14.00,₹ 32.00,SuperHit,"Drama, Romance",8.1
+239,Kites,₹ 87.00,₹ 49.00,₹ 66.00,₹ 21.00,₹ 65.00,Flop,"Comedy, Drama, Musical",8.1
+240,Raksha Bandhan,₹ 68.00,₹ 48.00,₹ 57.00,₹ 11.00,₹ 70.00,Below Average,"Crime, Drama, Mystery",8.1
+241,De Dana Dan,₹ 81.00,₹ 48.00,₹ 64.00,₹ 17.00,₹ 60.00,Average,"Comedy, Drama, Romance",8.1
+242,Marjaavaan,₹ 62.00,₹ 48.00,₹ 55.00,₹ 6.00,₹ 50.00,Average,"Action, Crime, Drama",8.1
+243,Murder 2,₹ 67.00,₹ 47.00,₹ 64.00,₹ 3.00,₹ 13.00,SuperHit,"Animation, Adventure, Comedy",8.1
+244,Himmatwala,₹ 65.00,₹ 47.00,₹ 64.00,₹ 1.00,₹ 68.00,Flop,"Biography, Crime, Drama",8.1
+245,Mardaani 2,₹ 67.00,₹ 47.00,₹ 57.00,₹ 10.00,₹ 30.00,Hit,"Drama, Thriller",8.1
+246,Heyy Babyy,₹ 83.00,₹ 47.00,₹ 63.00,₹ 20.00,₹ 30.00,Hit,"Animation, Adventure, Comedy",8.1
+247,Kambakkht Ishq,₹ 85.00,₹ 47.00,₹ 63.00,₹ 22.00,₹ 50.00,Average,"Animation, Action, Drama",8.1
+248,Koi... Mil Gaya,₹ 80.00,₹ 46.00,₹ 70.00,₹ 9.00,₹ 28.00,SuperHit,"Adventure, Drama, Musical",8.1
+249,Kuch Kuch Hota Hai,₹ 91.00,₹ 46.00,₹ 63.00,₹ 27.00,₹ 14.00,All Time Blockbuster,"Drama, Mystery, Thriller",8.1
+250,Ragini MMS 2,₹ 62.00,₹ 46.00,₹ 61.00,₹ 0.00,₹ 18.00,Hit,"Drama, Music, Romance",8.1
+251,Thank You,₹ 72.00,₹ 46.00,₹ 62.00,₹ 9.00,₹ 60.00,Flop,"Comedy, Drama",8.1
+252,Shuddh Desi Romance,₹ 75.00,₹ 46.00,₹ 62.00,₹ 12.00,₹ 25.00,Hit,"Comedy, Crime, Romance",8.1
+253,Hichki,₹ 236.00,₹ 45.00,₹ 59.00,₹ 177.00,₹ 20.00,Hit,"Comedy, Crime, Sport",8.1
+254,October,₹ 67.00,₹ 45.00,₹ 59.00,₹ 8.00,₹ 40.00,Hit,"Drama, Romance",8.1
+255,Veer,₹ 65.00,₹ 45.00,₹ 61.00,₹ 4.00,₹ 55.00,Below Average,Drama,8.1
+256,Ishaqzaade,₹ 61.00,₹ 45.00,₹ 61.00,₹ 0.00,₹ 16.00,Hit,"Crime, Drama, Thriller",8.1
+257,Guru,₹ 82.00,₹ 45.00,₹ 61.00,₹ 21.00,₹ 22.00,Hit,"Comedy, Drama, War",8.1
+258,New York,₹ 75.00,₹ 45.00,₹ 58.00,₹ 16.00,₹ 22.00,SuperHit,"Crime, Drama",8.1
+259,Kyaa Super Kool Hai Hum,₹ 64.00,₹ 44.00,₹ 60.00,₹ 3.00,₹ 19.00,Hit,"Drama, Romance",8.1
+260,Kabhi Alvida Naa Kehna,₹ 111.00,₹ 44.00,₹ 60.00,₹ 50.00,₹ 45.00,Average,"Drama, Romance",8.1
+261,No Entry,₹ 73.00,₹ 44.00,₹ 62.00,₹ 10.00,₹ 22.00,SuperHit,"Drama, Mystery, Romance",8.1
+262,Roy,₹ 56.00,₹ 44.00,₹ 52.00,₹ 3.00,₹ 50.00,Flop,"Comedy, Crime, Drama",8.1
+263,K.G.F : Chapter 1,₹ 237.00,₹ 44.00,₹ 227.00,₹ 10.00,₹ 80.00,Blockbuster,"Action, Adventure, ",8.1
+264,ABCD: Any Body Can Dance,₹ 61.00,₹ 44.00,₹ 57.00,₹ 3.00,₹ 20.00,Hit,"Biography, Crime, Drama",8.1
+265,Dostana,₹ 81.00,₹ 44.00,₹ 59.00,₹ 22.00,₹ 40.00,Average,"Drama, Music, Romance",8.1
+266,Double Dhamaal,₹ 71.00,₹ 44.00,₹ 59.00,₹ 11.00,₹ 30.00,Hit,"Drama, History, Romance",8.1
+267,Kaho Naa... Pyaar Hai,₹ 78.00,₹ 44.00,₹ 73.00,₹ 5.00,₹ 10.00,Blockbuster,"Comedy, Drama",8.1
+268,Heroine,₹ 70.00,₹ 43.00,₹ 58.00,₹ 12.00,₹ 35.00,Average,"Adventure, Drama",8.1
+269,Ek Villain Returns,₹ 60.00,₹ 43.00,₹ 51.00,₹ 9.00,₹ 72.00,flop,"Drama, War",8.1
+270,Raja Hindustani,₹ 76.00,₹ 43.00,₹ 60.00,₹ 15.00,₹ 6.00,All Time Blockbuster,Drama,8.1
+271,Agent Vinod,₹ 71.00,₹ 43.00,₹ 56.00,₹ 14.00,₹ 55.00,Flop,"Animation, Adventure, Fantasy",8.1
+272,Shaandaar,₹ 73.00,₹ 43.00,₹ 59.00,₹ 13.00,₹ 69.00,Flop,"Horror, Mystery, ",8.1
+273,I Hate Luv Storys,₹ 72.00,₹ 42.00,₹ 58.00,₹ 14.00,₹ 24.00,Hit,"Drama, Fantasy, Music",8.1
+274,Romeo Akbar Walter,₹ 58.00,₹ 42.00,₹ 50.00,₹ 7.00,₹ 35.00,Above Average,"Adventure, Drama",8.1
+275,Shubh Mangal Saavdhan,₹ 64.00,₹ 42.00,₹ 59.00,₹ 4.00,₹ 25.00,Hit,Drama,8.1
+276,Madras Cafe,₹ 66.00,₹ 42.00,₹ 57.00,₹ 9.00,₹ 34.00,Average,"Action, , Thriller",8.1
+277,Desi Boyz,₹ 80.00,₹ 42.00,₹ 57.00,₹ 22.00,₹ 54.00,Flop,"Biography, Drama",8.1
+278,Veer-Zaara,₹ 95.00,₹ 42.00,₹ 57.00,₹ 38.00,₹ 22.00,SuperHit,Comedy,8.1
+279,Jannat 2,₹ 62.00,₹ 42.00,₹ 57.00,₹ 5.00,₹ 23.00,Hit,"Drama, War",8.1
+280,Mohabbatein,₹ 76.00,₹ 41.00,₹ 56.00,₹ 20.00,₹ 19.00,Blockbuster,"Drama, Sport",8.1
+281,Devdas,₹ 90.00,₹ 41.00,₹ 56.00,₹ 34.00,₹ 30.00,Hit,Drama,8.1
+282,All The Best: Fun Begins,₹ 58.00,₹ 41.00,₹ 53.00,₹ 4.00,₹ 40.00,Average,"Adventure, Drama, History",8.1
+283,Kaminey,₹ 70.00,₹ 41.00,₹ 55.00,₹ 14.00,₹ 33.00,Above Average,"Biography, Drama",8.1
+284,Chashme Baddoor,₹ 59.00,₹ 41.00,₹ 55.00,₹ 3.00,₹ 22.00,Hit,"Drama, Mystery, Thriller",8.1
+285,Pagalpanti,₹ 51.00,₹ 41.00,₹ 47.00,₹ 4.00,₹ 60.00,Flop,"Comedy, Crime, Drama",8.1
+286,Atithi Tum Kab Jaoge?,₹ 57.00,₹ 41.00,₹ 55.00,₹ 1.00,₹ 20.00,Hit,Drama,8.1
+287,Wazir,₹ 78.00,₹ 41.00,₹ 55.00,₹ 23.00,₹ 35.00,Average,"Drama, Mystery, ",8.1
+288,Batti Gul Meter Chalu,₹ 58.00,₹ 40.00,₹ 52.00,₹ 6.00,₹ 55.00,Flop,"Crime, Drama, Mystery",8.1
+289,Phir Hera Pheri,₹ 69.00,₹ 40.00,₹ 55.00,₹ 14.00,₹ 18.00,SuperHit,"Crime, Drama",8.1
+290,Matru Ki Bijlee Ka Mandola,₹ 62.00,₹ 40.00,₹ 54.00,₹ 7.00,₹ 43.00,Flop,"Drama, Thriller",8.1
+291,Anjaana Anjaani,₹ 68.00,₹ 40.00,₹ 54.00,₹ 14.00,₹ 38.00,Average,"Biography, Drama, History",8.1
+292,Bhagam Bhag,₹ 67.00,₹ 40.00,₹ 54.00,₹ 13.00,₹ 32.00,Hit,"Drama, War",8.1
+293,Love Aaj Kal,₹ 57.00,₹ 40.00,₹ 47.00,₹ 10.00,₹ 60.00,Flop,"Drama, Fantasy",8.1
+294,Yaariyan,₹ 54.00,₹ 40.00,₹ 54.00,₹ 0.00,₹ 16.00,Hit,"Drama, Horror, Thriller",8.1
+295,Shamshera,₹ 60.00,₹ 39.00,₹ 47.00,₹ 13.00,₹ 150.00,Disaster,"Action, Comedy, Crime",8.1
+296,Aarakshan,₹ 64.00,₹ 39.00,₹ 53.00,₹ 10.00,₹ 45.00,Flop,"Drama, Western",8.1
+297,Antim: The Final Truth,₹ 58.00,₹ 39.00,₹ 46.00,₹ 11.00,₹ 35.00,flop,"Drama, War",8.1
+298,Ek Main Aur Ekk Tu,₹ 73.00,₹ 39.00,₹ 53.00,₹ 20.00,₹ 32.00,Average,Drama,8.1
+299,Border,₹ 64.00,₹ 39.00,₹ 62.00,₹ 2.00,₹ 10.00,All Time Blockbuster,"Biography, Drama, History",8.1
+300,Bhoothnath Returns,₹ 58.00,₹ 39.00,₹ 52.00,₹ 5.00,₹ 32.00,Average,"Crime, Drama",8.1
+301,Tevar,₹ 56.00,₹ 39.00,₹ 52.00,₹ 3.00,₹ 45.00,Flop,"Adventure, Drama, History",8.1
+302,Hum Saath-Saath Hain: We Stand United,₹ 80.00,₹ 39.00,₹ 65.00,₹ 15.00,₹ 17.00,Blockbuster,"Adventure, Drama",8.1
+303,Kal Ho Naa Ho,₹ 82.00,₹ 38.00,₹ 52.00,₹ 29.00,₹ 28.00,Hit,Drama,8.1
+304,Khatta Meetha,₹ 62.00,₹ 38.00,₹ 52.00,₹ 10.00,₹ 35.00,Average,"Drama, History",8.1
+305,Blue,₹ 63.00,₹ 38.00,₹ 52.00,₹ 11.00,₹ 75.00,Flop,"Adventure, Drama, War",8.1
+306,Cirkus,₹ 60.00,₹ 38.00,₹ 45.00,₹ 15.00,₹ 70.00,Flop,"Crime, Drama, Thriller",8.1
+307,A Flying Jatt,₹ 56.00,₹ 38.00,₹ 52.00,₹ 4.00,₹ 45.00,Flop,"Adventure, Drama, Thriller",8.1
+308,Ta Ra Rum Pum,₹ 68.00,₹ 38.00,₹ 51.00,₹ 16.00,₹ 28.00,Above Average,"Drama, Film-Noir",8.1
+309,Hasee Toh Phasee,₹ 63.00,₹ 37.00,₹ 51.00,₹ 11.00,₹ 25.00,Average,"Action, Crime, Drama",8.1
+310,Main Hoon Na,₹ 70.00,₹ 37.00,₹ 50.00,₹ 20.00,₹ 25.00,Hit,"Film-Noir, Mystery, Thriller",8.1
+311,MOM,₹ 65.00,₹ 37.00,₹ 51.00,₹ 13.00,₹ 35.00,Average,"Drama, Music, Romance",8.1
+312,Namastey London,₹ 71.00,₹ 37.00,₹ 51.00,₹ 19.00,₹ 21.00,SuperHit,"Comedy, Drama, Romance",8.1
+313,Shaadi Ke Side Effects,₹ 69.00,₹ 37.00,₹ 50.00,₹ 19.00,₹ 41.00,Flop,"Drama, Mystery, Romance",8.1
+314,Naam Shabana,₹ 55.00,₹ 36.00,₹ 48.00,₹ 7.00,₹ 25.00,Above Average,"Comedy, Drama",8.1
+315,Tanu Weds Manu,₹ 53.00,₹ 36.00,₹ 49.00,₹ 4.00,₹ 20.00,Hit,"Drama, History, Romance",8.1
+316,Bachna Ae Haseeno,₹ 62.00,₹ 36.00,₹ 47.00,₹ 15.00,₹ 23.00,Hit,"Drama, War",8.1
+317,Phata Poster Nikla Hero,₹ 63.00,₹ 36.00,₹ 49.00,₹ 14.00,₹ 40.00,Flop,"Comedy, Romance",8.1
+318,Thank God,₹ 48.00,₹ 36.00,₹ 42.00,₹ 6.00,₹ 70.00,Flop,"Biography, Drama, History",8.1
+319,Fukrey,₹ 50.00,₹ 36.00,₹ 48.00,₹ 1.00,₹ 17.00,Hit,"Comedy, Romance",8.1
+320,Mastizaade,₹ 51.00,₹ 36.00,₹ 48.00,₹ 2.00,₹ 30.00,Average,"Drama, Romance",8.1
+321,Bunty Aur Babli,₹ 62.00,₹ 36.00,₹ 50.00,₹ 12.00,₹ 12.00,SuperHit,"Action, Adventure, Comedy",8.1
+322,Tumhari Sulu,₹ 50.00,₹ 36.00,₹ 46.00,₹ 4.00,₹ 17.00,Hit,"Fantasy, Horror, Mystery",8.1
+323,Bullett Raja,₹ 53.00,₹ 36.00,₹ 48.00,₹ 4.00,₹ 51.00,Flop,"Comedy, Drama",8
+324,Ramaiya Vastavaiya,₹ 50.00,₹ 36.00,₹ 48.00,₹ 1.00,₹ 38.00,Flop,"Adventure, Biography, Drama",8
+325,Ghayal Once Again,₹ 57.00,₹ 35.00,₹ 48.00,₹ 9.00,₹ 50.00,Flop,"Drama, History",8
+326,Force 2,₹ 58.00,₹ 35.00,₹ 48.00,₹ 10.00,₹ 40.00,Flop,"Action, Adventure, Comedy",8
+327,Mardaani,₹ 59.00,₹ 35.00,₹ 48.00,₹ 11.00,₹ 20.00,Hit,"Action, Crime, Thriller",8
+328,Finding Fanny,₹ 63.00,₹ 35.00,₹ 48.00,₹ 15.00,₹ 25.00,Average,"Comedy, Drama, Music",8
+329,Runway 34,₹ 50.00,₹ 35.00,₹ 41.00,₹ 9.00,₹ 60.00,Flop,"Biography, Drama",8
+330,Vicky Donor,₹ 54.00,₹ 35.00,₹ 47.00,₹ 6.00,₹ 10.00,Hit,"Adventure, Drama, ",8
+331,Badmaash Company,₹ 50.00,₹ 34.00,₹ 47.00,₹ 3.00,₹ 20.00,Above Average,"Animation, Adventure, Comedy",8
+332,Chhapaak,₹ 55.00,₹ 34.00,₹ 40.00,₹ 15.00,₹ 50.00,Flop,"Action, Drama",8
+333,Dil To Pagal Hai,₹ 58.00,₹ 34.00,₹ 47.00,₹ 11.00,₹ 9.00,Blockbuster,"Animation, Adventure, Drama",8
+334,English Vinglish,₹ 83.00,₹ 34.00,₹ 46.00,₹ 37.00,₹ 20.00,Hit,"Drama, Family",8
+335,Judgementall Hai Kya,₹ 49.00,₹ 34.00,₹ 41.00,₹ 8.00,₹ 35.00,Average,"Drama, Music, Romance",8
+336,Hamari Adhuri Kahani,₹ 51.00,₹ 34.00,₹ 46.00,₹ 5.00,₹ 38.00,Below Average,"Crime, Drama, Thriller",8
+337,Lagaan: Once Upon a Time in India,₹ 58.00,₹ 34.00,₹ 46.00,₹ 11.00,₹ 25.00,Hit,Drama,8
+338,Bareilly Ki Barfi,₹ 58.00,₹ 34.00,₹ 47.00,₹ 10.00,₹ 20.00,Hit,"Action, Crime, Thriller",8
+339,Sarkar Raj,₹ 57.00,₹ 34.00,₹ 45.00,₹ 11.00,₹ 25.00,Average,"Biography, Drama, Thriller",8
+340,Yamla Pagla Deewana 2,₹ 48.00,₹ 33.00,₹ 45.00,₹ 2.00,₹ 30.00,Average,"Action, Adventure, Comedy",8
+341,Panipat,₹ 49.00,₹ 33.00,₹ 40.00,₹ 9.00,₹ 80.00,Disaster,"Action, Drama, Mystery",8
+342,Hero,₹ 49.00,₹ 33.00,₹ 45.00,₹ 3.00,₹ 32.00,Average,"Drama, Romance, ",8
+343,Bell Bottom,₹ 53.00,₹ 33.00,₹ 39.00,₹ 14.00,₹ 180.00,Flop,"Biography, Drama, Music",8
+344,Azhar,₹ 50.00,₹ 33.00,₹ 44.00,₹ 5.00,₹ 38.00,Flop,"Action, Adventure, Drama",8
+345,Kill Dil,₹ 58.00,₹ 33.00,₹ 44.00,₹ 13.00,₹ 40.00,Flop,"Drama, Romance",8
+346,Dhamaal,₹ 51.00,₹ 33.00,₹ 45.00,₹ 5.00,₹ 17.00,Hit,"Action, Crime, Drama",8
+347,Kahaani 2,₹ 55.00,₹ 33.00,₹ 44.00,₹ 11.00,₹ 25.00,Average,"Biography, Drama, History",8
+348,Ladies vs Ricky Bahl,₹ 49.00,₹ 32.00,₹ 44.00,₹ 4.00,₹ 20.00,Average,Drama,8
+349,Uunchai,₹ 48.00,₹ 32.00,₹ 38.00,₹ 9.00,₹ 45.00,Hit,"Action, Adventure, Comedy",8
+350,Munna Michael,₹ 48.00,₹ 32.00,₹ 45.00,₹ 2.00,₹ 41.00,Flop,"Drama, Mystery",8
+351,Ghanchakkar,₹ 47.00,₹ 32.00,₹ 44.00,₹ 2.00,₹ 29.00,Below Average,"Drama, Romance",8
+352,Jai Gangaajal,₹ 49.00,₹ 32.00,₹ 44.00,₹ 5.00,₹ 33.00,Below Average,"Action, Biography, Drama",8
+353,Rascals,₹ 49.00,₹ 32.00,₹ 44.00,₹ 5.00,₹ 45.00,Flop,Drama,8
+354,Jolly LLB,₹ 46.00,₹ 32.00,₹ 43.00,₹ 2.00,₹ 12.00,Hit,"Action, Drama, Thriller",8
+355,NH10,₹ 43.00,₹ 32.00,₹ 43.00,₹ 0.00,₹ 15.00,Hit,"Drama, Romance",8
+356,Soorma,₹ 47.00,₹ 32.00,₹ 41.00,₹ 6.00,₹ 32.00,Above Average,"Drama, Thriller",8
+357,Commando 3,₹ 9.00,₹ 32.00,₹ 7.00,₹ 2.00,₹ 40.00,Above Average,"Action, Crime, Drama",8
+358,Shehzada,₹ 47.00,₹ 32.00,₹ 37.00,₹ 10.00,₹ 65.00,Flop,"Action, Adventure, ",8
+359,Dhoom,₹ 48.00,₹ 31.00,₹ 42.00,₹ 6.00,₹ 11.00,SuperHit,"Animation, Biography, Drama",8
+360,Karthikeya 2,₹ 117.00,₹ 31.00,₹ 102.00,₹ 15.00,₹ 15.00,Blockbuster,"Biography, Drama",8
+361,Baar Baar Dekho,₹ 62.00,₹ 31.00,₹ 42.00,₹ 20.00,₹ 53.00,Flop,"Biography, Drama",8
+362,Vivah,₹ 48.00,₹ 31.00,₹ 43.00,₹ 4.00,₹ 8.00,Blockbuster,"Adventure, Drama, Thriller",8
+363,Patiala House,₹ 55.00,₹ 31.00,₹ 42.00,₹ 12.00,₹ 30.00,Flop,"Action, Mystery, Thriller",8
+364,Bhoot Part One,₹ 39.00,₹ 31.00,₹ 36.00,₹ 3.00,₹ 50.00,Flop,"Crime, Drama, Romance",8
+365,Jab We Met,₹ 48.00,₹ 30.00,₹ 41.00,₹ 7.00,₹ 15.00,Hit,"Crime, Thriller",8
+366,Highway,₹ 52.00,₹ 30.00,₹ 41.00,₹ 11.00,₹ 25.00,Average,"Biography, Drama",8
+367,Thappad,₹ 43.00,₹ 30.00,₹ 36.00,₹ 7.00,₹ 22.00,Average,"Adventure, Comedy, ",8
+368,Talvar,₹ 47.00,₹ 30.00,₹ 41.00,₹ 6.00,₹ 15.00,Hit,"Animation, Adventure, Comedy",8
+369,Delhi-6,₹ 50.00,₹ 30.00,₹ 39.00,₹ 10.00,₹ 40.00,Flop,"Action, Adventure, Thriller",8
+370,Raaz Reboot,₹ 43.00,₹ 30.00,₹ 40.00,₹ 2.00,₹ 31.00,Flop,"Action, Crime, Thriller",8
+371,Peepli Live,₹ 47.00,₹ 30.00,₹ 40.00,₹ 6.00,₹ 12.00,Hit,Drama,8
+372,Paa,₹ 46.00,₹ 30.00,₹ 40.00,₹ 6.00,₹ 18.00,Hit,"Drama, Romance",8
+373,Jism 2,₹ 42.00,₹ 30.00,₹ 40.00,₹ 1.00,₹ 11.00,Hit,"Biography, Drama",8
+374,Ittefaq,₹ 51.00,₹ 30.00,₹ 38.00,₹ 12.00,₹ 20.00,Average,"Biography, Drama, History",8
+375,Dum Laga Ke Haisha,₹ 42.00,₹ 30.00,₹ 40.00,₹ 2.00,₹ 12.00,Hit,"Comedy, Drama, Musical",8
+376,Jannat,₹ 40.00,₹ 29.00,₹ 40.00,₹ 0.00,₹ 10.00,SuperHit,"Action, Crime, Drama",8
+377,Thor: Love And Thunder,"₹ 5,550.00",₹ 29.00,₹ 127.00,"₹ 3,050.00","₹ 1,900.00",Hit,"Action, Adventure, Fantasy",8
+378,Golmaal: Fun Unlimited,₹ 46.00,₹ 29.00,₹ 39.00,₹ 6.00,₹ 11.00,SuperHit,"Adventure, Drama, Fantasy",8
+379,Mausam,₹ 52.00,₹ 29.00,₹ 39.00,₹ 12.00,₹ 45.00,Flop,"Animation, Action, Adventure",8
+380,Shootout at Lokhandwala,₹ 44.00,₹ 29.00,₹ 39.00,₹ 4.00,₹ 17.00,Above Average,"Comedy, Drama, Romance",8
+381,Tashan,₹ 51.00,₹ 29.00,₹ 39.00,₹ 11.00,₹ 31.00,Average,"Crime, Drama",8
+382,Chandni Chowk to China,₹ 53.00,₹ 29.00,₹ 37.00,₹ 15.00,₹ 65.00,Disaster,"Comedy, Drama",8
+383,Mujhse Shaadi Karogi,₹ 55.00,₹ 29.00,₹ 39.00,₹ 16.00,₹ 19.00,Hit,"Drama, Mystery, ",8
+384,Guzaarish,₹ 53.00,₹ 29.00,₹ 39.00,₹ 14.00,₹ 55.00,Disaster,Drama,8
+385,Action Replayy,₹ 48.00,₹ 29.00,₹ 39.00,₹ 8.00,₹ 55.00,Flop,"Crime, Drama, Musical",8
+386,Garam Masala,₹ 54.00,₹ 29.00,₹ 39.00,₹ 15.00,₹ 17.00,Hit,"Biography, Drama",8
+387,Lootera,₹ 46.00,₹ 29.00,₹ 39.00,₹ 7.00,₹ 30.00,Flop,"Animation, Crime, Mystery",8
+388,Dil Toh Baccha Hai Ji,₹ 40.00,₹ 28.00,₹ 39.00,₹ 1.00,₹ 27.00,Below Average,Drama,8
+389,Ferrari Ki Sawaari,₹ 44.00,₹ 28.00,₹ 37.00,₹ 6.00,₹ 15.00,Hit,Drama,8
+390,Happy Bhaag Jayegi,₹ 46.00,₹ 28.00,₹ 40.00,₹ 6.00,₹ 20.00,Hit,"Animation, Action, Adventure",8
+391,Akira,₹ 43.00,₹ 28.00,₹ 38.00,₹ 5.00,₹ 30.00,Flop,"Action, Crime, Comedy",8
+392,Pari,₹ 39.00,₹ 28.00,₹ 36.00,₹ 2.00,₹ 30.00,Above Average,Drama,8
+393,Players,₹ 47.00,₹ 28.00,₹ 38.00,₹ 8.00,₹ 55.00,Disaster,"Comedy, Drama",8
+394,London Dreams,₹ 45.00,₹ 28.00,₹ 38.00,₹ 6.00,₹ 45.00,Flop,"Mystery, , Thriller",8
+395,PM Narendra Modi,₹ 35.00,₹ 28.00,₹ 33.00,₹ 1.00,₹ 20.00,Above Average,"Animation, Action, Crime",8
+396,Doctor Strange In The Multiverse Of Madness,"₹ 5,400.00",₹ 28.00,₹ 147.00,"₹ 3,100.00","₹ 1,500.00",Average,"Animation, Family, Fantasy",8
+397,Ishqiya,₹ 39.00,₹ 28.00,₹ 38.00,₹ 1.00,₹ 18.00,Hit,"Comedy, Fantasy, Romance",8
+398,Baazaar,₹ 40.00,₹ 28.00,₹ 36.00,₹ 4.00,₹ 35.00,Below Average,"Crime, Drama",8
+399,Kyaa Kool Hain Hum 3,₹ 38.00,₹ 28.00,₹ 36.00,₹ 1.00,₹ 25.00,Average,Drama,8
+400,Doctor G,₹ 44.00,₹ 27.00,₹ 33.00,₹ 11.00,₹ 25.00,flop,"Animation, Adventure, Comedy",8
+401,No Problem,₹ 44.00,₹ 27.00,₹ 37.00,₹ 6.00,₹ 35.00,Flop,"Drama, History, Thriller",8
+402,Manmarziyaan,₹ 41.00,₹ 27.00,₹ 35.00,₹ 6.00,₹ 30.00,Flop,"Animation, Family, Fantasy",8
+403,Wake Up Sid,₹ 47.00,₹ 27.00,₹ 36.00,₹ 11.00,₹ 18.00,Hit,"Adventure, Drama, Western",8
+404,No One Killed Jessica,₹ 43.00,₹ 27.00,₹ 37.00,₹ 6.00,₹ 15.00,Hit,"Comedy, Drama",8
+405,Mangal Pandey: The Rising,₹ 51.00,₹ 27.00,₹ 37.00,₹ 13.00,₹ 34.00,Flop,Drama,8
+406,Sanam Re,₹ 39.00,₹ 27.00,₹ 37.00,₹ 1.00,₹ 25.00,Average,"Animation, Action, ",8
+407,Panga,₹ 40.00,₹ 27.00,₹ 32.00,₹ 8.00,₹ 49.00,Flop,"Adventure, Family, Fantasy",8
+408,Dedh Ishqiya,₹ 43.00,₹ 27.00,₹ 36.00,₹ 6.00,₹ 35.00,Flop,"Drama, Fantasy, Romance",8
+409,Sarbjit,₹ 41.00,₹ 27.00,₹ 36.00,₹ 4.00,₹ 30.00,Flop,"Drama, War",8
+410,Force,₹ 40.00,₹ 27.00,₹ 36.00,₹ 3.00,₹ 28.00,Flop,"Animation, Adventure, Drama",8
+411,Jawaani Jaaneman,₹ 42.00,₹ 27.00,₹ 32.00,₹ 9.00,₹ 40.00,flop,"Action, ",8
+412,Jhoom Barabar Jhoom,₹ 48.00,₹ 27.00,₹ 36.00,₹ 11.00,₹ 25.00,Below Average,"Biography, Drama, History",8
+413,Hate Story 2,₹ 36.00,₹ 26.00,₹ 36.00,₹ 0.00,₹ 15.00,Above Average,"Drama, History, War",8
+414,Detective Byomkesh Bakshy,₹ 43.00,₹ 26.00,₹ 36.00,₹ 7.00,₹ 35.00,Flop,"Comedy, Drama",8
+415,Tadap,₹ 33.00,₹ 26.00,₹ 30.00,₹ 2.00,₹ 20.00,flop,"Comedy, Romance",8
+416,Malamaal Weekly,₹ 41.00,₹ 26.00,₹ 36.00,₹ 5.00,₹ 6.00,SuperHit,"Adventure, Thriller",8
+417,Raja Natwarlal,₹ 44.00,₹ 26.00,₹ 35.00,₹ 8.00,₹ 45.00,Disaster,"Biography, Crime, Drama",8
+418,Singh Saab The Great,₹ 38.00,₹ 26.00,₹ 35.00,₹ 2.00,₹ 35.00,Flop,Comedy,8
+419,Ek Paheli Leela,₹ 36.00,₹ 26.00,₹ 35.00,₹ 0.00,₹ 20.00,Average,"Biography, Crime, Drama",8
+420,Fashion,₹ 38.00,₹ 26.00,₹ 35.00,₹ 3.00,₹ 18.00,Above Average,Horror,8
+421,The Hero: Love Story of a Spy,₹ 44.00,₹ 26.00,₹ 40.00,₹ 3.00,₹ 33.00,Below Average,"Mystery, Thriller",8
+422,Salaam Namaste,₹ 55.00,₹ 26.00,₹ 35.00,₹ 20.00,₹ 10.00,Hit,"Drama, Romance",8
+423,Khakee,₹ 45.00,₹ 25.00,₹ 34.00,₹ 10.00,₹ 26.00,Average,"Drama, Family, Musical",8
+424,Karan Arjun,₹ 36.00,₹ 25.00,₹ 34.00,₹ 2.00,₹ 6.00,Blockbuster,Drama,8
+425,Karthik Calling Karthik,₹ 38.00,₹ 25.00,₹ 34.00,₹ 3.00,₹ 20.00,Below Average,"Biography, Crime, Drama",8
+426,Raabta,₹ 39.00,₹ 25.00,₹ 35.00,₹ 3.00,₹ 45.00,Flop,"Drama, Horror",8
+427,Dhobi Ghat,₹ 0.00,₹ 25.00,₹ 0.00,₹ 0.00,₹ 1.00,flop,"Adventure, ",8
+428,Biwi No.1,₹ 49.00,₹ 25.00,₹ 43.00,₹ 6.00,₹ 12.00,SuperHit,"Comedy, Drama, Romance",8
+429,Maine Pyaar Kyun Kiya?,₹ 45.00,₹ 25.00,₹ 35.00,₹ 10.00,₹ 15.00,Above Average,Drama,8
+430,Ek Thi Daayan,₹ 40.00,₹ 25.00,₹ 34.00,₹ 5.00,₹ 24.00,Below Average,"Biography, Drama, Family",8
+431,Teri Meri Kahaani,₹ 51.00,₹ 25.00,₹ 34.00,₹ 17.00,₹ 35.00,Flop,"Drama, Romance, War",8
+432,Haunted 3D 2011,₹ 34.00,₹ 25.00,₹ 34.00,₹ 0.00,₹ 13.00,Hit,"Action, Drama, Western",8
+433,F.A.L.T.U,₹ 34.00,₹ 25.00,₹ 34.00,₹ 0.00,₹ 18.00,Average,Drama,8
+434,Raaz-The Mystery Continues 2009,₹ 36.00,₹ 25.00,₹ 32.00,₹ 3.00,₹ 15.00,Hit,Drama,8
+435,Daawat-E-Ishq,₹ 34.00,₹ 25.00,₹ 34.00,₹ 0.00,₹ 30.00,Flop,"Drama, Sport",8
+436,Jazbaa,₹ 42.00,₹ 25.00,₹ 34.00,₹ 8.00,₹ 28.00,Flop,"Comedy, Drama",8
+437,Rock On!!,₹ 35.00,₹ 25.00,₹ 33.00,₹ 1.00,₹ 16.00,Hit,"Action, Drama, Western",8
+438,Commando 2,₹ 39.00,₹ 25.00,₹ 33.00,₹ 5.00,₹ 26.00,Flop,"Crime, Drama, Mystery",8
+439,Rocky Handsome,₹ 35.00,₹ 25.00,₹ 33.00,₹ 1.00,₹ 40.00,Flop,"Crime, Drama, Film-Noir",8
+440,Gangs of Wasseypur,₹ 33.00,₹ 25.00,₹ 33.00,₹ 0.00,₹ 20.00,Average,Drama,8
+441,Go Goa Gone,₹ 38.00,₹ 24.00,₹ 33.00,₹ 4.00,₹ 19.00,Flop,"Drama, Film-Noir",8
+442,Jaan-E-Mann,₹ 45.00,₹ 24.00,₹ 33.00,₹ 12.00,₹ 25.00,Below Average,"Crime, Drama, Film-Noir",8
+443,Ishq,₹ 45.00,₹ 24.00,₹ 42.00,₹ 2.00,₹ 11.00,SuperHit,"Crime, Drama, Film-Noir",8
+444,Junglee,₹ 32.00,₹ 24.00,₹ 29.00,₹ 3.00,₹ 50.00,Flop,Drama,8
+445,Hum Dil De Chuke Sanam,₹ 51.00,₹ 24.00,₹ 33.00,₹ 17.00,₹ 16.00,Hit,"Crime, Drama, Horror",8
+446,Sarkar,₹ 38.00,₹ 24.00,₹ 33.00,₹ 4.00,₹ 13.00,Above Average,"Comedy, Drama, War",8
+447,Katti Batti,₹ 42.00,₹ 24.00,₹ 33.00,₹ 9.00,₹ 30.00,Flop,"Comedy, Romance",8
+448,Mr. X,₹ 37.00,₹ 24.00,₹ 33.00,₹ 3.00,₹ 35.00,Flop,Drama,8
+449,Khoobsurat,₹ 53.00,₹ 24.00,₹ 33.00,₹ 20.00,₹ 18.00,Average,"Drama, Film-Noir, Mystery",8
+450,Indian,₹ 41.00,₹ 24.00,₹ 40.00,₹ 1.00,₹ 13.00,Hit,"Comedy, Crime",8
+451,Enthiran,₹ 291.00,₹ 24.00,₹ 216.00,₹ 75.00,₹ 132.00,All Time Blockbuster,"Crime, Drama, Mystery",8
+452,D Day,₹ 39.00,₹ 23.00,₹ 32.00,₹ 7.00,₹ 26.00,Flop,"Crime, Drama, Film-Noir",8
+453,Bombay Velvet,₹ 43.00,₹ 23.00,₹ 31.00,₹ 11.00,₹ 115.00,Disaster,"Drama, Romance",8
+454,Saand Ki Aankh,₹ 31.00,₹ 23.00,₹ 28.00,₹ 3.00,₹ 20.00,Above Average,"Drama, Film-Noir, Mystery",8
+455,Bhoothnath,₹ 37.00,₹ 23.00,₹ 31.00,₹ 5.00,₹ 20.00,Average,"Drama, Romance, War",8
+456,OK Jaanu,₹ 39.00,₹ 23.00,₹ 32.00,₹ 6.00,₹ 27.00,Flop,"Comedy, Crime, Thriller",8
+457,Lakshya,₹ 40.00,₹ 23.00,₹ 32.00,₹ 7.00,₹ 30.00,Flop,"Film-Noir, Mystery",8
+458,Dil Bole Hadippa!,₹ 43.00,₹ 23.00,₹ 31.00,₹ 11.00,₹ 25.00,Flop,"Drama, History",8
+459,Thackeray,₹ 50.00,₹ 23.00,₹ 46.00,₹ 4.00,₹ 40.00,Above Average,"Adventure, Family, Fantasy",8
+460,Dus,₹ 37.00,₹ 23.00,₹ 31.00,₹ 6.00,₹ 21.00,Average,"Comedy, Drama",8
+461,Omkara,₹ 41.00,₹ 23.00,₹ 31.00,₹ 10.00,₹ 25.00,Flop,"Comedy, Crime, Mystery",8
+462,Black,₹ 39.00,₹ 23.00,₹ 32.00,₹ 7.00,₹ 20.00,Average,"Drama, War",8
+463,Munna Bhai M.B.B.S.,₹ 34.00,₹ 22.00,₹ 31.00,₹ 3.00,₹ 10.00,Hit,"Drama, History, Thriller",8
+464,Ponniyin Selvan - Part 1,₹ 488.00,₹ 22.00,₹ 313.00,₹ 175.00,₹ 250.00,All Time Blockbuster,"Comedy, Crime, Drama",7.9
+465,36 China Town,₹ 36.00,₹ 22.00,₹ 30.00,₹ 5.00,₹ 18.00,Above Average,"Comedy, Drama, Romance",7.9
+466,Mission Kashmir,₹ 42.00,₹ 22.00,₹ 37.00,₹ 4.00,₹ 20.00,Average,"Crime, Drama",7.9
+467,Salaam-e-Ishq: A Tribute to Love,₹ 51.00,₹ 22.00,₹ 31.00,₹ 20.00,₹ 35.00,Disaster,"Comedy, Drama, Romance",7.9
+468,Pardes,₹ 40.00,₹ 22.00,₹ 34.00,₹ 6.00,₹ 8.00,SuperHit,"Drama, Romance",7.9
+469,Billu,₹ 46.00,₹ 22.00,₹ 29.00,₹ 16.00,₹ 24.00,Below Average,Drama,7.9
+470,Kismat Konnection,₹ 37.00,₹ 22.00,₹ 30.00,₹ 7.00,₹ 25.00,Flop,"Animation, Adventure, Comedy",7.9
+471,1920 - Evil Returns,₹ 30.00,₹ 22.00,₹ 30.00,₹ 0.00,₹ 8.00,Above Average,"Adventure, Comedy, Drama",7.9
+472,Mere Baap Pehle Aap,₹ 35.00,₹ 22.00,₹ 30.00,₹ 5.00,₹ 18.00,Below Average,"Comedy, Drama",7.9
+473,Joker,₹ 32.00,₹ 22.00,₹ 30.00,₹ 1.00,₹ 47.00,Disaster,"Comedy, Drama, Music",7.9
+474,Murder 3,₹ 33.00,₹ 22.00,₹ 30.00,₹ 2.00,₹ 15.00,Below Average,"Action, Adventure, Comedy",7.9
+475,Ek Ladki Ko Dekha Toh Aisa Laga,₹ 44.00,₹ 22.00,₹ 26.00,₹ 18.00,₹ 50.00,Flop,"Crime, Drama, Thriller",7.9
+476,Mrs Chatterjee Vs Norway,₹ 37.00,₹ 22.00,₹ 26.00,₹ 11.00,₹ 20.00,Hit,"Comedy, Drama, War",7.9
+477,Chandigarh Kare Aashiqui,₹ 30.00,₹ 22.00,₹ 24.00,₹ 5.00,₹ 40.00,flop,"Drama, ",7.9
+478,Saawariya,₹ 39.00,₹ 22.00,₹ 27.00,₹ 12.00,₹ 45.00,Disaster,"Action, Adventure, ",7.9
+479,Shamitabh,₹ 37.00,₹ 22.00,₹ 30.00,₹ 7.00,₹ 40.00,Disaster,"Drama, Romance",7.9
+480,Hate Story 4,₹ 31.00,₹ 22.00,₹ 29.00,₹ 2.00,₹ 15.00,Hit,"Action, Adventure, ",7.9
+481,Taal,₹ 50.00,₹ 22.00,₹ 34.00,₹ 15.00,₹ 15.00,Hit,"Crime, Drama",7.9
+482,Aurangzeb,₹ 34.00,₹ 22.00,₹ 29.00,₹ 5.00,₹ 22.00,Flop,"Comedy, Drama, Romance",7.9
+483,Rocketry: The Nambi Effect,₹ 45.00,₹ 22.00,₹ 40.00,₹ 5.00,₹ 1.00,flop,"Action, Adventure, ",7.9
+484,Happy Phirr Bhag Jayegi,₹ 31.00,₹ 21.00,₹ 28.00,₹ 3.00,₹ 30.00,Flop,"Drama, Romance",7.9
+485,Roohi,₹ 28.00,₹ 21.00,₹ 25.00,₹ 3.00,₹ 25.00,Average,"Biography, Crime, Drama",7.9
+486,Apne,₹ 38.00,₹ 21.00,₹ 29.00,₹ 9.00,₹ 18.00,Average,"Crime, Drama",7.9
+487,Black Adam,"₹ 2,985.00",₹ 21.00,₹ 57.00,"₹ 2,927.00","₹ 1,500.00",flop,"Drama, Mystery, ",7.9
+488,Jurassic World: Dominion,"₹ 4,000.00",₹ 21.00,₹ 74.00,"₹ 2,700.00",₹ 1.00,flop,"Crime, Drama, Fantasy",7.9
+489,Gangs Of Wasseypur 2,₹ 31.00,₹ 21.00,₹ 29.00,₹ 2.00,₹ 18.00,Flop,"Action, , Thriller",7.9
+490,"Saheb, Biwi Aur Gangster Returns",₹ 29.00,₹ 21.00,₹ 29.00,₹ 0.00,₹ 19.00,Below Average,"Drama, Sport",7.9
+491,Black Panther: Wakanda Forever,"₹ 6,634.00",₹ 21.00,₹ 87.00,"₹ 6,546.00","₹ 1,250.00",Hit,"Comedy, Drama, Romance",7.9
+492,Nautanki Saala,₹ 32.00,₹ 21.00,₹ 29.00,₹ 3.00,₹ 15.00,Average,Drama,7.9
+493,Pyaar To Hona Hi Tha,₹ 31.00,₹ 21.00,₹ 29.00,₹ 1.00,₹ 7.00,SuperHit,Drama,7.9
+494,Heropanti 2,₹ 28.00,₹ 21.00,₹ 25.00,₹ 2.00,₹ 80.00,Disaster,"Action, Adventure, ",7.9
+495,Hum Tum,₹ 41.00,₹ 21.00,₹ 30.00,₹ 11.00,₹ 8.00,Hit,"Comedy, Crime, Drama",7.9
+496,Raaz,₹ 35.00,₹ 21.00,₹ 34.00,₹ 0.00,₹ 5.00,Blockbuster,"Drama, Fantasy, Mystery",7.9
+497,Soldier,₹ 37.00,₹ 21.00,₹ 35.00,₹ 2.00,₹ 8.00,SuperHit,"Action, Adventure, Drama",7.9
+498,Commando-A One Man Army,₹ 28.00,₹ 21.00,₹ 28.00,₹ 0.00,₹ 17.00,Average,"Adventure, Drama, Fantasy",7.9
+499,Mulk,₹ 30.00,₹ 20.00,₹ 27.00,₹ 3.00,₹ 18.00,Above Average,"Adventure, Drama, Fantasy",7.9
+500,Baghban,₹ 43.00,₹ 20.00,₹ 28.00,₹ 14.00,₹ 12.00,Hit,"Animation, Adventure, Comedy",7.9
+501,Luck,₹ 33.00,₹ 20.00,₹ 28.00,₹ 5.00,₹ 35.00,Flop,"Comedy, Drama",7.9
+502,Rangoon,₹ 39.00,₹ 20.00,₹ 28.00,₹ 11.00,₹ 60.00,Disaster,"Drama, Music",7.9
+503,U Me Aur Hum,₹ 39.00,₹ 20.00,₹ 27.00,₹ 11.00,₹ 25.00,Flop,"Action, Adventure, ",7.9
+504,A Gentleman,₹ 38.00,₹ 20.00,₹ 28.00,₹ 9.00,₹ 65.00,Disaster,"Comedy, Horror",7.9
+505,Newton,₹ 28.00,₹ 20.00,₹ 28.00,₹ 0.00,₹ 15.00,Average,"Drama, Romance",7.9
+506,Jersey,₹ 26.00,₹ 20.00,₹ 22.00,₹ 3.00,₹ 60.00,Disaster,"Crime, Drama, Mystery",7.9
+507,Life Partner,₹ 32.00,₹ 20.00,₹ 27.00,₹ 4.00,₹ 19.00,Below Average,"Adventure, Family, Fantasy",7.9
+508,Blackmail,₹ 30.00,₹ 20.00,₹ 27.00,₹ 3.00,₹ 20.00,Above Average,"Action, Adventure, History",7.9
+509,Rangeela,₹ 33.00,₹ 20.00,₹ 32.00,₹ 0.00,₹ 5.00,Blockbuster,"Drama, Mystery, Romance",7.9
+510,Karwaan,₹ 29.00,₹ 20.00,₹ 26.00,₹ 3.00,₹ 20.00,Average,"Comedy, Drama, War",7.9
+511,The Ghazi Attack,₹ 34.00,₹ 20.00,₹ 27.00,₹ 7.00,₹ 16.00,Average,"Animation, Action, Crime",7.9
+512,Dil Chahta Hai,₹ 38.00,₹ 20.00,₹ 32.00,₹ 6.00,₹ 13.00,Above Average,"Action, Mystery, Thriller",7.9
+513,Rocket Singh: Salesman of the Year,₹ 33.00,₹ 20.00,₹ 26.00,₹ 7.00,₹ 16.00,Above Average,"Crime, Drama, Thriller",7.9
+514,Kaante,₹ 41.00,₹ 20.00,₹ 32.00,₹ 9.00,₹ 28.00,Below Average,"Adventure, Drama, ",7.9
+515,Masti,₹ 34.00,₹ 20.00,₹ 27.00,₹ 6.00,₹ 10.00,Hit,"Adventure, Comedy, Drama",7.9
+516,Waqt: The Race Against Time,₹ 42.00,₹ 20.00,₹ 29.00,₹ 13.00,₹ 16.00,Average,"Drama, Mystery, Thriller",7.9
+517,The Accidental Prime Minister,₹ 26.00,₹ 20.00,₹ 24.00,₹ 2.00,₹ 25.00,Flop,"Animation, Adventure, Comedy",7.9
+518,The Sky Is Pink,₹ 28.00,₹ 20.00,₹ 23.00,₹ 5.00,₹ 24.00,Flop,Drama,7.9
+519,Kidnap,₹ 33.00,₹ 20.00,₹ 27.00,₹ 6.00,₹ 27.00,Flop,"Animation, Drama, Family",7.9
+520,Raja,₹ 33.00,₹ 20.00,₹ 32.00,₹ 1.00,₹ 4.00,Blockbuster,"Crime, Drama",7.9
+521,The Lunchbox,₹ 100.00,₹ 20.00,₹ 27.00,₹ 73.00,₹ 22.00,Average,"Crime, Drama, Romance",7.9
+522,Sunday,₹ 31.00,₹ 20.00,₹ 27.00,₹ 4.00,₹ 20.00,Below Average,"Drama, Music, Mystery",7.9
+523,Hulchul,₹ 31.00,₹ 20.00,₹ 28.00,₹ 3.00,₹ 10.00,Hit,"Animation, Action, Adventure",7.9
+524,Tere Naal Love Ho Gaya,₹ 31.00,₹ 19.00,₹ 26.00,₹ 4.00,₹ 13.00,Average,"Crime, Drama, Thriller",7.9
+525,Badhaai Do,₹ 23.00,₹ 19.00,₹ 20.00,₹ 3.00,₹ 30.00,Disaster,"Drama, Fantasy, Romance",7.9
+526,Taxi No. 9211,₹ 31.00,₹ 19.00,₹ 26.00,₹ 5.00,₹ 10.00,Above Average,"Biography, Drama",7.9
+527,Krazzy 4,₹ 31.00,₹ 19.00,₹ 26.00,₹ 5.00,₹ 16.00,Average,"Comedy, Drama",7.9
+528,Chance Pe Dance,₹ 29.00,₹ 19.00,₹ 26.00,₹ 3.00,₹ 26.00,Flop,"Crime, Drama, Thriller",7.9
+529,Agni Sakshi,₹ 31.00,₹ 19.00,₹ 30.00,₹ 0.00,₹ 4.00,Blockbuster,"Comedy, Drama",7.9
+530,Radhe Shyam,₹ 144.00,₹ 19.00,₹ 117.00,₹ 26.00,₹ 350.00,Disaster,"Drama, ",7.9
+531,Ungli,₹ 29.00,₹ 19.00,₹ 26.00,₹ 3.00,₹ 35.00,Disaster,"Comedy, Music",7.9
+532,Fitoor,₹ 39.00,₹ 19.00,₹ 26.00,₹ 13.00,₹ 70.00,Disaster,"Comedy, Family",7.9
+533,Chalte Chalte,₹ 40.00,₹ 19.00,₹ 26.00,₹ 14.00,₹ 11.00,Hit,"Action, Adventure, Comedy",7.9
+534,Alone,₹ 29.00,₹ 19.00,₹ 25.00,₹ 3.00,₹ 18.00,Below Average,"Comedy, Drama, Romance",7.9
+535,Lipstick Under My Burkha,₹ 26.00,₹ 19.00,₹ 25.00,₹ 0.00,₹ 6.00,Hit,"Drama, Music, Musical",7.9
+536,Te3n,₹ 33.00,₹ 19.00,₹ 25.00,₹ 8.00,₹ 34.00,Flop,"Action, Adventure, Horror",7.9
+537,Dolly Ki Doli,₹ 28.00,₹ 19.00,₹ 25.00,₹ 2.00,₹ 18.00,Below Average,"Biography, Drama, History",7.9
+538,Bade Miyan Chote Miyan,₹ 35.00,₹ 19.00,₹ 32.00,₹ 2.00,₹ 10.00,Hit,"Adventure, Drama, Fantasy",7.9
+539,Barsaat,₹ 33.00,₹ 19.00,₹ 32.00,₹ 1.00,₹ 8.00,SuperHit,"Comedy, Drama, Family",7.9
+540,Kaal,₹ 32.00,₹ 18.00,₹ 25.00,₹ 6.00,₹ 11.00,Average,Comedy,7.9
+541,Dulhan Hum Le Jayenge,₹ 36.00,₹ 18.00,₹ 31.00,₹ 5.00,₹ 11.00,Hit,"Action, Adventure, Biography",7.9
+542,Jabariya Jodi,₹ 25.00,₹ 18.00,₹ 22.00,₹ 3.00,₹ 30.00,Flop,"Comedy, Drama, Romance",7.9
+543,Hum Kisise Kum Nahin,₹ 29.00,₹ 18.00,₹ 26.00,₹ 2.00,₹ 18.00,Below Average,"Biography, Drama, War",7.9
+544,Sarfarosh,₹ 29.00,₹ 18.00,₹ 25.00,₹ 4.00,₹ 8.00,Hit,"Action, Adventure, Western",7.9
+545,Jodi No.1,₹ 34.00,₹ 18.00,₹ 31.00,₹ 2.00,₹ 10.00,Hit,"Horror, Thriller",7.9
+546,Liger,₹ 56.00,₹ 18.00,₹ 48.00,₹ 7.00,₹ 125.00,Disaster,"Biography, Drama, History",7.9
+547,Chori Chori Chupke Chupke,₹ 37.00,₹ 18.00,₹ 31.00,₹ 6.00,₹ 10.00,Hit,"Crime, Drama, Mystery",7.9
+548,Madaari,₹ 28.00,₹ 18.00,₹ 24.00,₹ 4.00,₹ 20.00,Flop,"Comedy, Mystery, Romance",7.9
+549,Ziddi,₹ 32.00,₹ 18.00,₹ 31.00,₹ 0.00,₹ 7.00,SuperHit,"Drama, Thriller",7.9
+550,Bluffmaster!,₹ 31.00,₹ 18.00,₹ 24.00,₹ 7.00,₹ 8.00,Above Average,"Adventure, Biography, Drama",7.9
+551,Gupt: The Hidden Truth,₹ 33.00,₹ 18.00,₹ 31.00,₹ 1.00,₹ 9.00,Hit,"Drama, Mystery",7.9
+552,Pyaar Kiya To Darna Kya,₹ 33.00,₹ 18.00,₹ 25.00,₹ 8.00,₹ 8.00,SuperHit,"Drama, Romance",7.9
+553,Jayeshbhai Jordaar,₹ 17.00,₹ 17.00,₹ 21.00,₹ 3.00,₹ 1.00,Disaster,"Adventure, Drama",7.9
+554,Begum Jaan,₹ 0.00,₹ 17.00,₹ 0.00,₹ 0.00,₹ 1.00,flop,"Adventure, Drama, Western",7.9
+555,Josh,₹ 34.00,₹ 17.00,₹ 28.00,₹ 5.00,₹ 15.00,Average,Drama,7.9
+556,Fool n Final,₹ 27.00,₹ 17.00,₹ 23.00,₹ 3.00,₹ 23.00,Flop,"Drama, Thriller, Western",7.9
+557,Main Prem Ki Diwani Hoon,₹ 38.00,₹ 17.00,₹ 27.00,₹ 11.00,₹ 21.00,Flop,"Crime, Film-Noir, Thriller",7.9
+558,Creature,₹ 25.00,₹ 17.00,₹ 23.00,₹ 1.00,₹ 25.00,Flop,"Comedy, Drama, Fantasy",7.9
+559,Break Ke Baad,₹ 29.00,₹ 17.00,₹ 23.00,₹ 5.00,₹ 19.00,Flop,"Comedy, Drama, Family",7.9
+560,Aankhen,₹ 29.00,₹ 17.00,₹ 23.00,₹ 5.00,₹ 15.00,Average,"Drama, Film-Noir, Romance",7.9
+561,7 Khoon Maaf,₹ 27.00,₹ 17.00,₹ 23.00,₹ 3.00,₹ 21.00,Flop,"Crime, Film-Noir, Mystery",7.9
+562,Qayamat: City Under Threat,₹ 28.00,₹ 17.00,₹ 23.00,₹ 4.00,₹ 16.00,Average,"Drama, Film-Noir",7.9
+563,Attack - Part 1,₹ 22.00,₹ 17.00,₹ 18.00,₹ 3.00,₹ 55.00,Flop,"Comedy, Romance",7.9
+564,Laaga Chunari Mein Daag,₹ 35.00,₹ 17.00,₹ 23.00,₹ 12.00,₹ 15.00,Below Average,"Comedy, Drama, Romance",7.9
+565,Simran,₹ 27.00,₹ 17.00,₹ 23.00,₹ 3.00,₹ 1.00,flop,"Action, Adventure, Romance",7.9
+566,Baabul,₹ 38.00,₹ 17.00,₹ 23.00,₹ 15.00,₹ 22.00,Flop,"Comedy, Music, Musical",7.9
+567,Mujhe Kucch Kehna Hai,₹ 29.00,₹ 17.00,₹ 28.00,₹ 1.00,₹ 7.00,SuperHit,"Adventure, Horror, ",7.9
+568,Cheeni Kum,₹ 31.00,₹ 17.00,₹ 23.00,₹ 8.00,₹ 11.00,Above Average,"Drama, Horror",7.9
+569,Band Baaja Baaraat,₹ 30.00,₹ 17.00,₹ 23.00,₹ 6.00,₹ 13.00,Average,"Fantasy, Horror",7.9
+570,Ajnabee,₹ 31.00,₹ 17.00,₹ 23.00,₹ 8.00,₹ 17.00,Average,"Action, Comedy, Crime",7.8
+571,Selfiee,₹ 24.00,₹ 17.00,₹ 20.00,₹ 4.00,₹ 100.00,Disaster,"Action, Drama, Thriller",7.8
+572,Aiyaary,₹ 30.00,₹ 17.00,₹ 21.00,₹ 8.00,₹ 65.00,Flop,"Drama, Music",7.8
+573,Refugee,₹ 34.00,₹ 17.00,₹ 27.00,₹ 6.00,₹ 14.00,Average,Drama,7.8
+574,Bombay Talkies,₹ 0.00,₹ 17.00,₹ 0.00,₹ 0.00,₹ 1.00,flop,"Action, Drama, History",7.8
+575,Hero No. 1,₹ 30.00,₹ 17.00,₹ 30.00,₹ 0.00,₹ 6.00,SuperHit,"Comedy, Drama",7.8
+576,Section 375,₹ 22.00,₹ 17.00,₹ 20.00,₹ 2.00,₹ 20.00,Below Average,"Biography, Drama, History",7.8
+577,Bewafaa,₹ 30.00,₹ 16.00,₹ 22.00,₹ 7.00,₹ 18.00,Average,"Adventure, Comedy, Family",7.8
+578,Hum Aapke Dil Mein Rehte Hain,₹ 36.00,₹ 16.00,₹ 28.00,₹ 7.00,₹ 6.00,SuperHit,"Action, Crime, Drama",7.8
+579,Qarib Qarib Singlle,₹ 24.00,₹ 16.00,₹ 22.00,₹ 1.00,₹ 15.00,Average,"Animation, Action, Adventure",7.8
+580,Yuvvraaj,₹ 28.00,₹ 16.00,₹ 22.00,₹ 6.00,₹ 45.00,Disaster,"Biography, Drama, Sport",7.8
+581,Do Knot Disturb,₹ 27.00,₹ 16.00,₹ 22.00,₹ 5.00,₹ 28.00,Flop,Drama,7.8
+582,Parineeta,₹ 30.00,₹ 16.00,₹ 22.00,₹ 7.00,₹ 16.00,Below Average,"Drama, History, War",7.8
+583,Mumbai Saga,₹ 22.00,₹ 16.00,₹ 19.00,₹ 2.00,₹ 40.00,Flop,"Action, Adventure, ",7.8
+584,Jeet,₹ 28.00,₹ 16.00,₹ 27.00,₹ 1.00,₹ 6.00,SuperHit,"Action, Adventure, ",7.8
+585,Humraaz,₹ 28.00,₹ 16.00,₹ 26.00,₹ 2.00,₹ 14.00,Average,"Crime, Drama, Mystery",7.8
+586,The Tashkent Files,₹ 20.00,₹ 16.00,₹ 19.00,₹ 0.00,₹ 8.00,SuperHit,"Drama, Romance",7.8
+587,Awara Paagal Deewana,₹ 27.00,₹ 16.00,₹ 21.00,₹ 5.00,₹ 13.00,Average,"Animation, Biography, Crime",7.8
+588,Kachche Dhaage,₹ 28.00,₹ 16.00,₹ 27.00,₹ 1.00,₹ 10.00,Hit,"Biography, Comedy, Drama",7.8
+589,Swades,₹ 33.00,₹ 16.00,₹ 22.00,₹ 11.00,₹ 20.00,Flop,"Drama, Mystery",7.8
+590,1921,₹ 22.00,₹ 15.00,₹ 20.00,₹ 2.00,₹ 15.00,Above Average,Drama,7.8
+591,Andaaz,₹ 28.00,₹ 15.00,₹ 21.00,₹ 7.00,₹ 8.00,Hit,"Drama, Romance",7.8
+592,All Is Well,₹ 23.00,₹ 15.00,₹ 21.00,₹ 1.00,₹ 28.00,Flop,"Comedy, Romance",7.8
+593,Dhol,₹ 23.00,₹ 15.00,₹ 21.00,₹ 1.00,₹ 14.00,Average,"Animation, Action, Adventure",7.8
+594,Zilla Ghaziabad,₹ 22.00,₹ 15.00,₹ 21.00,₹ 1.00,₹ 34.00,Flop,"Comedy, Drama, Fantasy",7.8
+595,Lajja,₹ 33.00,₹ 15.00,₹ 25.00,₹ 7.00,₹ 20.00,Flop,"Comedy, Drama, Family",7.8
+596,Life in a Metro,₹ 24.00,₹ 15.00,₹ 21.00,₹ 3.00,₹ 8.00,Above Average,"Animation, Biography, Drama",7.8
+597,Aitraaz,₹ 26.00,₹ 15.00,₹ 21.00,₹ 5.00,₹ 11.00,Average,"Animation, Adventure, Comedy",7.8
+598,Kyaa Kool Hai Hum,₹ 21.00,₹ 15.00,₹ 20.00,₹ 0.00,₹ 5.00,Hit,"Crime, Drama, Mystery",7.8
+599,Ponniyin Selvan - Part 2,₹ 319.00,₹ 15.00,₹ 200.00,₹ 119.00,₹ 1.00,Hit,"Comedy, Drama, Romance",7.8
+600,Sholay,₹ 50.00,₹ 15.00,₹ 35.00,₹ 15.00,₹ 3.00,All Time Blockbuster,"Animation, Action, Adventure",7.8
+601,1920 London,₹ 22.00,₹ 15.00,₹ 20.00,₹ 2.00,₹ 15.00,Below Average,"Biography, Comedy, Drama",7.8
+602,8 x 10 Tasveer,₹ 23.00,₹ 15.00,₹ 20.00,₹ 2.00,₹ 35.00,Disaster,"Drama, Thriller",7.8
+603,Apaharan,₹ 22.00,₹ 15.00,₹ 21.00,₹ 0.00,₹ 10.00,Above Average,"Action, Crime, Drama",7.8
+604,Tezz,₹ 26.00,₹ 15.00,₹ 20.00,₹ 5.00,₹ 52.00,Disaster,"Crime, Drama, Mystery",7.8
+605,Har Dil Jo Pyar Karega,₹ 32.00,₹ 15.00,₹ 25.00,₹ 6.00,₹ 13.00,Average,"Adventure, Biography, Crime",7.8
+606,Guardians of the Galaxy Vol. 3,"₹ 4,350.00",₹ 15.00,₹ 54.00,"₹ 2,595.00",₹ 1.00,flop,"Action, Crime, Drama",7.8
+607,Badal,₹ 25.00,₹ 15.00,₹ 25.00,₹ 0.00,₹ 10.00,Hit,"Biography, Drama, History",7.8
+608,Deewane Huye Paagal,₹ 26.00,₹ 15.00,₹ 20.00,₹ 6.00,₹ 20.00,Flop,"Crime, Drama, Mystery",7.8
+609,Tere Naam,₹ 24.00,₹ 15.00,₹ 19.00,₹ 4.00,₹ 12.00,Average,"Action, Crime, Thriller",7.8
+610,Dev.D,₹ 19.00,₹ 15.00,₹ 19.00,₹ 0.00,₹ 11.00,Average,"Adventure, Fantasy",7.8
+611,Saathiya,₹ 28.00,₹ 15.00,₹ 23.00,₹ 4.00,₹ 7.00,Hit,"Drama, History, Mystery",7.8
+612,Ghatak,₹ 26.00,₹ 15.00,₹ 25.00,₹ 0.00,₹ 6.00,SuperHit,"Crime, Drama, Mystery",7.8
+613,Mela,₹ 28.00,₹ 15.00,₹ 24.00,₹ 3.00,₹ 16.00,Flop,"Drama, History, Thriller",7.8
+614,Zanjeer,₹ 22.00,₹ 15.00,₹ 20.00,₹ 2.00,₹ 45.00,Disaster,"Comedy, Drama",7.8
+615,Haseena Maan Jaayegi,₹ 26.00,₹ 14.00,₹ 24.00,₹ 1.00,₹ 9.00,Hit,"Biography, Drama, Sport",7.8
+616,Saala Khadoos,₹ 21.00,₹ 14.00,₹ 20.00,₹ 0.00,₹ 20.00,Flop,"Action, Thriller",7.8
+617,Murder,₹ 21.00,₹ 14.00,₹ 20.00,₹ 0.00,₹ 5.00,SuperHit,"Drama, History, War",7.8
+618,Baadshah,₹ 31.00,₹ 14.00,₹ 24.00,₹ 7.00,₹ 10.00,Above Average,"Drama, Music, Romance",7.8
+619,Koyla,₹ 27.00,₹ 14.00,₹ 25.00,₹ 2.00,₹ 12.00,Average,"Adventure, Fantasy",7.8
+620,Jhund,₹ 23.00,₹ 14.00,₹ 17.00,₹ 5.00,₹ 1.00,Average,Drama,7.8
+621,Freaky Ali,₹ 21.00,₹ 14.00,₹ 19.00,₹ 1.00,₹ 18.00,Flop,"Drama, Mystery, Romance",7.8
+622,Hamara Dil Aapke Paas Hai,₹ 29.00,₹ 14.00,₹ 23.00,₹ 5.00,₹ 8.00,Hit,"Crime, Drama",7.8
+623,Fiza,₹ 31.00,₹ 14.00,₹ 23.00,₹ 7.00,₹ 5.00,Hit,"Biography, Crime, Drama",7.8
+624,Gulaab Gang,₹ 22.00,₹ 14.00,₹ 19.00,₹ 3.00,₹ 27.00,Flop,"Action, Adventure, Fantasy",7.8
+625,Khiladiyon Ka Khiladi,₹ 25.00,₹ 14.00,₹ 19.00,₹ 5.00,₹ 6.00,SuperHit,"Drama, Fantasy, Romance",7.8
+626,Maine Pyar Kiya,₹ 27.00,₹ 14.00,₹ 23.00,₹ 4.00,₹ 4.00,All Time Blockbuster,"Action, Adventure, Drama",7.8
+627,Bhoot,₹ 21.00,₹ 14.00,₹ 20.00,₹ 1.00,₹ 6.00,Hit,"Comedy, Drama",7.8
+628,Apna Sapna Money Money,₹ 19.00,₹ 14.00,₹ 19.00,₹ 0.00,₹ 8.00,Above Average,"Action, Comedy, Mystery",7.8
+629,Humko Deewana Kar Gaye,₹ 27.00,₹ 14.00,₹ 19.00,₹ 8.00,₹ 17.00,Flop,"Drama, Fantasy, Romance",7.8
+630,Satyameva Jayate 2,₹ 15.00,₹ 14.00,₹ 12.00,₹ 2.00,₹ 60.00,flop,"Drama, Family, Musical",7.8
+631,Yuva,₹ 23.00,₹ 14.00,₹ 19.00,₹ 3.00,₹ 11.00,Below Average,"Comedy, Crime, Drama",7.8
+632,Satya,₹ 18.00,₹ 14.00,₹ 18.00,₹ 0.00,₹ 3.00,SuperHit,"Drama, Romance",7.8
+633,Teraa Surroor,₹ 20.00,₹ 14.00,₹ 18.00,₹ 1.00,₹ 15.00,Average,"Biography, Drama, Sport",7.8
+634,Dhadkan,₹ 26.00,₹ 14.00,₹ 18.00,₹ 7.00,₹ 9.00,Average,"Animation, Adventure, Comedy",7.8
+635,Hindustan Ki Kasam,₹ 26.00,₹ 13.00,₹ 18.00,₹ 7.00,₹ 12.00,Average,"Action, Adventure, ",7.8
+636,Bewakoofiyaan,₹ 21.00,₹ 13.00,₹ 18.00,₹ 3.00,₹ 19.00,Flop,"Biography, Drama, Music",7.8
+637,Judaai,₹ 27.00,₹ 13.00,₹ 24.00,₹ 3.00,₹ 6.00,SuperHit,Drama,7.8
+638,Bandit Queen,₹ 20.00,₹ 13.00,₹ 20.00,₹ 0.00,₹ 3.00,SuperHit,"Drama, Romance",7.8
+639,Hum Tumhare Hain Sanam,₹ 31.00,₹ 13.00,₹ 18.00,₹ 12.00,₹ 12.00,Average,"Adventure, Biography, Drama",7.8
+640,Ant-Man and the Wasp: Quantumania,"₹ 3,890.00",₹ 13.00,₹ 55.00,"₹ 2,155.00","₹ 1,500.00",Average,"Crime, Drama",7.8
+641,Khamoshiyan: Silences Have Secrets,₹ 19.00,₹ 13.00,₹ 18.00,₹ 0.00,₹ 11.00,Average,"Animation, Comedy, Drama",7.8
+642,Dhan Dhana Dhan Goal,₹ 21.00,₹ 13.00,₹ 18.00,₹ 2.00,₹ 18.00,Flop,"Action, Drama, Thriller",7.8
+643,Great Grand Masti,₹ 20.00,₹ 13.00,₹ 18.00,₹ 1.00,₹ 38.00,Disaster,"Action, Adventure, Drama",7.8
+644,Saajan Chale Sasural,₹ 23.00,₹ 13.00,₹ 23.00,₹ 0.00,₹ 4.00,SuperHit,"Animation, Drama, Fantasy",7.8
+645,Company,₹ 23.00,₹ 13.00,₹ 21.00,₹ 2.00,₹ 8.00,Above Average,"Biography, Drama, Sport",7.8
+646,Chup Chup Ke,₹ 24.00,₹ 13.00,₹ 18.00,₹ 6.00,₹ 10.00,Average,"Action, Adventure, Fantasy",7.8
+647,Aankhen,₹ 18.00,₹ 13.00,₹ 18.00,₹ 0.00,₹ 2.00,All Time Blockbuster,Drama,7.8
+648,Deewana Mastana,₹ 24.00,₹ 13.00,₹ 23.00,₹ 1.00,₹ 7.00,Hit,"Adventure, Drama, Romance",7.8
+649,Hunterrr,₹ 18.00,₹ 13.00,₹ 18.00,₹ 0.00,₹ 9.00,Average,"Action, Crime, Thriller",7.8
+650,Hate Story,₹ 17.00,₹ 13.00,₹ 17.00,₹ 0.00,₹ 9.00,Average,"Biography, Drama, Thriller",7.8
+651,Babumoshai Bandookbaaz,₹ 18.00,₹ 13.00,₹ 18.00,₹ 0.00,₹ 10.00,Average,"Biography, Drama, Family",7.8
+652,Ghulam,₹ 23.00,₹ 13.00,₹ 21.00,₹ 1.00,₹ 7.00,Hit,"Animation, Adventure, Comedy",7.8
+653,India's Most Wanted,₹ 18.00,₹ 13.00,₹ 15.00,₹ 2.00,₹ 30.00,Disaster,"Drama, Romance",7.8
+654,Bbuddah...Hoga Terra Baap,₹ 21.00,₹ 13.00,₹ 17.00,₹ 3.00,₹ 20.00,Flop,"Crime, Drama, Romance",7.8
+655,Maa Tujhhe Salaam,₹ 21.00,₹ 13.00,₹ 21.00,₹ 0.00,₹ 12.00,Average,"Drama, , Thriller",7.8
+656,Judwaa,₹ 23.00,₹ 13.00,₹ 17.00,₹ 5.00,₹ 6.00,Hit,"Action, Drama, Mystery",7.8
+657,Paheli,₹ 31.00,₹ 13.00,₹ 18.00,₹ 13.00,₹ 14.00,Below Average,Drama,7.8
+658,Shaadi Mein Zaroor Aana,₹ 17.00,₹ 13.00,₹ 16.00,₹ 0.00,₹ 13.00,Below Average,"Biography, Comedy, Drama",7.8
+659,Major Saab,₹ 22.00,₹ 12.00,₹ 20.00,₹ 1.00,₹ 8.00,Hit,Drama,7.8
+660,Major,₹ 58.00,₹ 12.00,₹ 45.00,₹ 13.00,₹ 30.00,SuperHit,"Action, Biography, Drama",7.8
+661,Ujda Chaman,₹ 16.00,₹ 12.00,₹ 15.00,₹ 1.00,₹ 20.00,Flop,"Comedy, Drama, Family",7.8
+662,Khuda Haafiz Chapter II,₹ 15.00,₹ 12.00,₹ 13.00,₹ 2.00,₹ 1.00,flop,"Drama, Romance",7.8
+663,Phone Bhoot,₹ 17.00,₹ 12.00,₹ 15.00,₹ 2.00,₹ 25.00,flop,"Comedy, Drama",7.8
+664,Mujhse Dosti Karoge!,₹ 32.00,₹ 12.00,₹ 20.00,₹ 12.00,₹ 11.00,Below Average,"Action, Crime, Drama",7.8
+665,China Gate,₹ 22.00,₹ 12.00,₹ 21.00,₹ 0.00,₹ 9.00,Above Average,"Crime, Drama, Romance",7.8
+666,Halla Bol,₹ 19.00,₹ 12.00,₹ 17.00,₹ 2.00,₹ 20.00,Flop,"Animation, Action, Crime",7.8
+667,Dulhe Raja,₹ 21.00,₹ 12.00,₹ 21.00,₹ 0.00,₹ 5.00,SuperHit,"Action, Crime, Thriller",7.8
+668,Kyon Ki,₹ 22.00,₹ 12.00,₹ 17.00,₹ 5.00,₹ 20.00,Flop,"Comedy, Drama",7.8
+669,Gangster,₹ 16.00,₹ 12.00,₹ 16.00,₹ 0.00,₹ 5.00,Above Average,"Drama, Fantasy, Music",7.8
+670,Coolie No. 1,₹ 21.00,₹ 12.00,₹ 20.00,₹ 0.00,₹ 3.00,SuperHit,"Crime, Drama",7.8
+671,Manjhi - The Mountain Man,₹ 16.00,₹ 12.00,₹ 16.00,₹ 0.00,₹ 8.00,Average,"Drama, Thriller",7.8
+672,God Tussi Great Ho,₹ 20.00,₹ 12.00,₹ 17.00,₹ 3.00,₹ 21.00,Flop,"Biography, Drama",7.8
+673,Heroes,₹ 23.00,₹ 12.00,₹ 16.00,₹ 6.00,₹ 18.00,Flop,"Animation, Adventure, Drama",7.8
+674,Hungama,₹ 18.00,₹ 12.00,₹ 17.00,₹ 1.00,₹ 6.00,Above Average,"Biography, Drama, History",7.8
+675,Hera Pheri,₹ 21.00,₹ 12.00,₹ 16.00,₹ 4.00,₹ 7.00,Hit,"Action, Crime, Drama",7.8
+676,Made In China,₹ 16.00,₹ 12.00,₹ 14.00,₹ 1.00,₹ 25.00,Flop,"Adventure, Comedy, ",7.8
+677,Mere Dad Ki Maruti,₹ 17.00,₹ 12.00,₹ 16.00,₹ 0.00,₹ 10.00,Below Average,"Crime, Drama, History",7.8
+678,Kya Kehna,₹ 21.00,₹ 12.00,₹ 19.00,₹ 1.00,₹ 4.00,SuperHit,"Action, Adventure, ",7.8
+679,Mohra,₹ 22.00,₹ 12.00,₹ 16.00,₹ 6.00,₹ 3.00,Blockbuster,"Action, Comedy, Fantasy",7.8
+680,Khalnayak,₹ 21.00,₹ 12.00,₹ 21.00,₹ 0.00,₹ 5.00,SuperHit,Comedy,7.8
+681,Bandhan,₹ 21.00,₹ 11.00,₹ 20.00,₹ 0.00,₹ 5.00,Hit,"Comedy, Crime, Drama",7.8
+682,Bunty Aur Babli 2,₹ 20.00,₹ 11.00,₹ 14.00,₹ 6.00,₹ 30.00,flop,"Adventure, Comedy, Family",7.8
+683,Paan Singh Tomar,₹ 17.00,₹ 11.00,₹ 16.00,₹ 1.00,₹ 7.00,Average,Drama,7.8
+684,Yamla Pagla Deewana Phir Se,₹ 17.00,₹ 11.00,₹ 14.00,₹ 2.00,₹ 30.00,Disaster,"Comedy, Drama",7.8
+685,Fanney Khan,₹ 19.00,₹ 11.00,₹ 14.00,₹ 4.00,₹ 18.00,Flop,"Biography, Drama, History",7.8
+686,Pyare Mohan,₹ 18.00,₹ 11.00,₹ 15.00,₹ 2.00,₹ 12.00,Flop,"Action, Comedy, Fantasy",7.8
+687,Chup,₹ 19.00,₹ 11.00,₹ 13.00,₹ 5.00,₹ 25.00,Flop,"Adventure, Biography, Drama",7.8
+688,Ek Aur Ek Gyarah,₹ 19.00,₹ 11.00,₹ 16.00,₹ 3.00,₹ 8.00,Below Average,"Comedy, Crime, Drama",7.8
+689,Ab Tumhare Hawale Watan Saathiyo,₹ 19.00,₹ 11.00,₹ 15.00,₹ 3.00,₹ 20.00,Flop,"Family, ",7.8
+690,Bobby Jasoos,₹ 20.00,₹ 11.00,₹ 15.00,₹ 4.00,₹ 24.00,Flop,Drama,7.8
+691,Chal Mere Bhai,₹ 21.00,₹ 11.00,₹ 18.00,₹ 2.00,₹ 13.00,Flop,"Drama, Romance",7.8
+692,Beta,₹ 21.00,₹ 11.00,₹ 21.00,₹ 0.00,₹ 4.00,Blockbuster,Western,7.8
+693,A Wednesday!,₹ 15.00,₹ 11.00,₹ 15.00,₹ 0.00,₹ 3.00,Hit,"Adventure, History, War",7.8
+694,Loveyatri,₹ 18.00,₹ 11.00,₹ 15.00,₹ 2.00,₹ 22.00,Flop,"Drama, Mystery, Thriller",7.8
+695,Asoka,₹ 27.00,₹ 11.00,₹ 19.00,₹ 8.00,₹ 12.00,Below Average,"Animation, ",7.8
+696,Arjun Pandit,₹ 31.00,₹ 11.00,₹ 24.00,₹ 7.00,₹ 9.00,Average,"Crime, Drama, Thriller",7.8
+697,Deewangee,₹ 17.00,₹ 11.00,₹ 15.00,₹ 1.00,₹ 9.00,Average,"Action, Crime, Drama",7.8
+698,Vaastav: The Reality,₹ 19.00,₹ 11.00,₹ 19.00,₹ 0.00,₹ 5.00,Hit,"Drama, Music, Musical",7.8
+699,Chachi 420,₹ 20.00,₹ 11.00,₹ 19.00,₹ 0.00,₹ 4.00,Hit,"Family, Fantasy, Musical",7.8
+700,An Action Hero,₹ 16.00,₹ 11.00,₹ 13.00,₹ 3.00,₹ 30.00,Flop,Drama,7.8
+701,Poster Boys,₹ 14.00,₹ 11.00,₹ 14.00,₹ 0.00,₹ 18.00,Flop,Thriller,7.8
+702,Daag: The Fire,₹ 20.00,₹ 11.00,₹ 18.00,₹ 1.00,₹ 6.00,Hit,"Comedy, Drama",7.8
+703,Virasat,₹ 20.00,₹ 11.00,₹ 19.00,₹ 1.00,₹ 5.00,Hit,"Action, Biography, Crime",7.8
+704,Lucknow Central,₹ 16.00,₹ 11.00,₹ 15.00,₹ 1.00,₹ 1.00,flop,"Drama, Family, Musical",7.8
+705,Yes Boss,₹ 22.00,₹ 11.00,₹ 19.00,₹ 3.00,₹ 5.00,Hit,"Comedy, Family, Fantasy",7.8
+706,Hadh Kar Di Aapne,₹ 19.00,₹ 11.00,₹ 17.00,₹ 1.00,₹ 7.00,Above Average,"Action, Drama, History",7.8
+707,Vikrant Rona,₹ 100.00,₹ 11.00,₹ 94.00,₹ 5.00,₹ 95.00,flop,"Drama, Romance",7.8
+708,Sye Raa Narasimha Reddy,₹ 246.00,₹ 11.00,₹ 216.00,₹ 30.00,₹ 275.00,Below Average,Horror,7.8
+709,Kurukshetra,₹ 18.00,₹ 11.00,₹ 17.00,₹ 1.00,₹ 8.00,Average,"Crime, Drama",7.8
+710,Why Cheat India,₹ 14.00,₹ 10.00,₹ 13.00,₹ 1.00,₹ 25.00,Disaster,"Action, Adventure, Drama",7.8
+711,Darr,₹ 21.00,₹ 10.00,₹ 19.00,₹ 1.00,₹ 3.00,Blockbuster,"Action, Crime, Drama",7.8
+712,Zameen,₹ 16.00,₹ 10.00,₹ 15.00,₹ 1.00,₹ 10.00,Below Average,"Adventure, Comedy, Film-Noir",7.8
+713,Jaani Dushman: Ek Anokhi Kahani,₹ 19.00,₹ 10.00,₹ 14.00,₹ 4.00,₹ 18.00,Flop,"Film-Noir, Thriller",7.8
+714,Jhootha Hi Sahi,₹ 16.00,₹ 10.00,₹ 14.00,₹ 2.00,₹ 35.00,Disaster,"Adventure, Drama, Western",7.8
+715,Table No. 21,₹ 17.00,₹ 10.00,₹ 14.00,₹ 3.00,₹ 8.00,Below Average,"Mystery, Thriller",7.8
+716,Guest iin London,₹ 11.00,₹ 10.00,₹ 11.00,₹ 0.00,₹ 28.00,Disaster,"Comedy, Family, Romance",7.8
+717,Jaanwar,₹ 18.00,₹ 10.00,₹ 14.00,₹ 4.00,₹ 6.00,Hit,"Drama, Horror, ",7.8
+718,Dil Se..,₹ 24.00,₹ 10.00,₹ 14.00,₹ 9.00,₹ 8.00,Hit,"Comedy, Musical, War",7.8
+719,Kunwara,₹ 19.00,₹ 10.00,₹ 18.00,₹ 1.00,₹ 9.00,Below Average,"Action, Crime, Drama",7.8
+720,Phir Bhi Dil Hai Hindustani,₹ 24.00,₹ 10.00,₹ 17.00,₹ 7.00,₹ 13.00,Flop,"Drama, Horror, ",7.8
+721,Nayak: The Real Hero,₹ 19.00,₹ 10.00,₹ 17.00,₹ 2.00,₹ 20.00,Flop,Drama,7.7
+722,Tumko Na Bhool Paayenge,₹ 19.00,₹ 10.00,₹ 17.00,₹ 2.00,₹ 12.00,Flop,"Drama, Romance",7.7
+723,Rock On 2,₹ 17.00,₹ 10.00,₹ 14.00,₹ 3.00,₹ 40.00,Disaster,"Action, Adventure, Comedy",7.7
+724,Bichhoo,₹ 17.00,₹ 10.00,₹ 17.00,₹ 0.00,₹ 7.00,Above Average,"Crime, Drama, Mystery",7.7
+725,John Wick: Chapter 4,"₹ 3,050.00",₹ 10.00,₹ 61.00,"₹ 1,635.00",₹ 900.00,Hit,"Horror, Mystery, Thriller",7.7
+726,Hello Brother,₹ 20.00,₹ 10.00,₹ 17.00,₹ 2.00,₹ 9.00,Below Average,"Action, Adventure, Thriller",7.7
+727,Mirzya,₹ 15.00,₹ 10.00,₹ 14.00,₹ 0.00,₹ 45.00,Disaster,"Comedy, Drama, Romance",7.7
+728,Gangaajal,₹ 16.00,₹ 10.00,₹ 14.00,₹ 2.00,₹ 7.00,Average,"Comedy, Horror",7.7
+729,Wajah Tum Ho,₹ 14.00,₹ 10.00,₹ 14.00,₹ 0.00,₹ 14.00,Flop,"Animation, Drama, Family",7.7
+730,Albela,₹ 18.00,₹ 10.00,₹ 17.00,₹ 1.00,₹ 10.00,Below Average,"Biography, Drama, Romance",7.7
+731,Mukkabaaz,₹ 0.00,₹ 10.00,₹ 0.00,₹ 0.00,₹ 10.00,Above Average,"Action, Adventure, Comedy",7.7
+732,Bhoomi (film),₹ 14.00,₹ 10.00,₹ 14.00,₹ 0.00,₹ 25.00,Disaster,"Drama, Romance",7.7
+733,1920,₹ 13.00,₹ 10.00,₹ 13.00,₹ 0.00,₹ 6.00,Average,"Comedy, Drama",7.7
+734,Paltan,₹ 14.00,₹ 10.00,₹ 13.00,₹ 1.00,₹ 25.00,Flop,"Comedy, Drama",7.7
+735,Revolver Rani,₹ 13.00,₹ 10.00,₹ 13.00,₹ 0.00,₹ 22.00,Flop,"Drama, Romance",7.7
+736,Bheja Fry 2,₹ 17.00,₹ 10.00,₹ 13.00,₹ 3.00,₹ 9.00,Average,"Drama, Sport",7.7
+737,Vikram,₹ 414.00,₹ 10.00,₹ 289.00,₹ 125.00,₹ 120.00,All Time Blockbuster,"Drama, Music, Romance",7.7
+738,Firangi,₹ 16.00,₹ 10.00,₹ 13.00,₹ 2.00,₹ 25.00,Flop,"Action, Adventure, ",7.7
+739,Angrezi Medium,₹ 15.00,₹ 10.00,₹ 12.00,₹ 3.00,₹ 1.00,flop,"Drama, Music, Musical",7.7
+740,Saheb Biwi Aur Gangster,₹ 14.00,₹ 10.00,₹ 13.00,₹ 0.00,₹ 5.00,Hit,"Adventure, Comedy, Drama",7.7
+741,Tumbbad,₹ 13.00,₹ 10.00,₹ 13.00,₹ 0.00,₹ 1.00,Flop,"Animation, Adventure, Comedy",7.7
+742,Pataakha,₹ 13.00,₹ 10.00,₹ 13.00,₹ 0.00,₹ 20.00,Flop,"Animation, Adventure, Drama",7.7
+743,Anari No.1,₹ 17.00,₹ 10.00,₹ 17.00,₹ 0.00,₹ 6.00,Hit,Drama,7.7
+744,Hogi Pyaar Ki Jeet,₹ 14.00,₹ 10.00,₹ 13.00,₹ 0.00,₹ 6.00,Hit,"Comedy, Fantasy, Romance",7.7
+745,Shaadi Se Pehle,₹ 15.00,₹ 10.00,₹ 13.00,₹ 2.00,₹ 10.00,Flop,"Animation, Action, Adventure",7.7
+746,Fida,₹ 16.00,₹ 10.00,₹ 15.00,₹ 1.00,₹ 10.00,Below Average,"Drama, , Thriller",7.7
+747,Tera Jadoo Chal Gayaa,₹ 18.00,₹ 9.00,₹ 16.00,₹ 2.00,₹ 8.00,Average,"Action, Adventure, ",7.7
+748,Ragini MMS,₹ 13.00,₹ 9.00,₹ 13.00,₹ 0.00,₹ 5.00,Above Average,"Drama, War",7.7
+749,Love Sex aur Dhokha,₹ 12.00,₹ 9.00,₹ 12.00,₹ 0.00,₹ 4.00,Above Average,"Biography, Drama",7.7
+750,Jaan,₹ 17.00,₹ 9.00,₹ 16.00,₹ 0.00,₹ 4.00,SuperHit,"Action, Adventure, ",7.7
+751,Phoonk,₹ 13.00,₹ 9.00,₹ 13.00,₹ 0.00,₹ 4.00,Hit,Comedy,7.7
+752,Welcome to Sajjanpur,₹ 13.00,₹ 9.00,₹ 13.00,₹ 0.00,₹ 8.00,Average,"Action, Adventure, Thriller",7.7
+753,Sabse Bada Khiladi,₹ 16.00,₹ 9.00,₹ 12.00,₹ 3.00,₹ 4.00,Hit,"Comedy, Drama, Romance",7.7
+754,Saajan,₹ 18.00,₹ 9.00,₹ 18.00,₹ 0.00,₹ 4.00,SuperHit,"Biography, Drama, Thriller",7.7
+755,Aap Mujhe Achche Lagne Lage,₹ 19.00,₹ 9.00,₹ 14.00,₹ 4.00,₹ 10.00,Flop,"Comedy, Drama, Romance",7.7
+756,Mr. and Mrs. Khiladi,₹ 13.00,₹ 9.00,₹ 12.00,₹ 0.00,₹ 5.00,Hit,"Adventure, Family, Fantasy",7.7
+757,Aan: Men at Work,₹ 14.00,₹ 9.00,₹ 12.00,₹ 1.00,₹ 15.00,Disaster,"Animation, Adventure, Comedy",7.7
+758,Aksar 2,₹ 12.00,₹ 9.00,₹ 11.00,₹ 0.00,₹ 9.00,Flop,"Biography, Drama, History",7.7
+759,Krantiveer,₹ 14.00,₹ 9.00,₹ 14.00,₹ 0.00,₹ 2.00,Blockbuster,"Animation, Drama, Fantasy",7.7
+760,Sanam Teri Kasam,₹ 15.00,₹ 9.00,₹ 12.00,₹ 2.00,₹ 18.00,Flop,"Biography, Crime, Drama",7.7
+761,Diljale,₹ 15.00,₹ 9.00,₹ 12.00,₹ 3.00,₹ 5.00,Hit,"Comedy, Drama, Romance",7.7
+762,Ajay,₹ 16.00,₹ 9.00,₹ 16.00,₹ 0.00,₹ 6.00,Average,"Animation, Adventure, Comedy",7.7
+763,Anek,₹ 9.00,₹ 9.00,₹ 10.00,₹ 1.00,₹ 1.00,Disaster,"Crime, Drama, Fantasy",7.7
+764,Julie,₹ 13.00,₹ 9.00,₹ 12.00,₹ 0.00,₹ 5.00,Above Average,"Crime, Drama",7.7
+765,Namaste England,₹ 12.00,₹ 9.00,₹ 11.00,₹ 0.00,₹ 50.00,Disaster,"Drama, , Thriller",7.7
+766,Pyar ka Punchnama,₹ 17.00,₹ 9.00,₹ 12.00,₹ 5.00,₹ 9.00,Average,Drama,7.7
+767,Pal Pal Dil Ke Paas,₹ 12.00,₹ 9.00,₹ 10.00,₹ 2.00,₹ 30.00,Disaster,"Biography, Drama, History",7.7
+768,Drona,₹ 18.00,₹ 8.00,₹ 13.00,₹ 4.00,₹ 35.00,Disaster,"Crime, Drama, Mystery",7.7
+769,Haan Maine Bhi Pyaar Kiya,₹ 19.00,₹ 8.00,₹ 12.00,₹ 7.00,₹ 11.00,Flop,"Action, Crime, Drama",7.7
+770,Bhai,₹ 14.00,₹ 8.00,₹ 13.00,₹ 1.00,₹ 5.00,Hit,"Drama, History, Music",7.7
+771,International Khiladi,₹ 16.00,₹ 8.00,₹ 11.00,₹ 4.00,₹ 7.00,Average,"Biography, Drama, Music",7.7
+772,HIT â€“ The First Case,₹ 8.00,₹ 8.00,₹ 10.00,₹ 1.00,₹ 1.00,flop,"Animation, Adventure, Comedy",7.7
+773,Dil Kya Kare,₹ 18.00,₹ 8.00,₹ 14.00,₹ 4.00,₹ 9.00,Flop,"Drama, Thriller, War",7.7
+774,Banjo,₹ 13.00,₹ 8.00,₹ 11.00,₹ 1.00,₹ 20.00,Flop,"Drama, Romance",7.7
+775,Bheja Fry,₹ 11.00,₹ 8.00,₹ 11.00,₹ 0.00,₹ 1.00,Hit,"Action, Crime, Drama",7.7
+776,Tujhe Meri Kasam,₹ 12.00,₹ 8.00,₹ 12.00,₹ 0.00,₹ 3.00,Above Average,"Crime, Drama, Thriller",7.7
+777,Arjun Patiala,₹ 12.00,₹ 8.00,₹ 10.00,₹ 2.00,₹ 25.00,Disaster,"Action, Comedy, Fantasy",7.7
+778,Guddu Rangeela,₹ 13.00,₹ 8.00,₹ 11.00,₹ 1.00,₹ 15.00,Disaster,"Action, Mystery, Thriller",7.7
+779,Dosti: Friends Forever,₹ 22.00,₹ 8.00,₹ 11.00,₹ 10.00,₹ 15.00,Flop,"Drama, Thriller",7.7
+780,Luv Shuv Tey Chicken Khurana,₹ 12.00,₹ 8.00,₹ 11.00,₹ 1.00,₹ 11.00,Flop,"Biography, Drama, Music",7.7
+781,Ghayal,₹ 20.00,₹ 8.00,₹ 16.00,₹ 4.00,₹ 2.00,Blockbuster,"Comedy, Drama",7.7
+782,Saudagar,₹ 15.00,₹ 8.00,₹ 15.00,₹ 0.00,₹ 5.00,Hit,"Adventure, Family, Fantasy",7.7
+783,Godfather,₹ 107.00,₹ 8.00,₹ 87.00,₹ 20.00,₹ 100.00,Flop,"Action, Crime, Drama",7.7
+784,Ram Jaane 1995,₹ 15.00,₹ 8.00,₹ 14.00,₹ 0.00,₹ 3.00,Hit,"Animation, Drama, Family",7.7
+785,Trimurti,₹ 14.00,₹ 8.00,₹ 13.00,₹ 1.00,₹ 10.00,Flop,"Action, Drama",7.7
+786,Khoobsurat,₹ 15.00,₹ 8.00,₹ 14.00,₹ 0.00,₹ 6.00,Above Average,Drama,7.7
+787,Aksar,₹ 11.00,₹ 8.00,₹ 11.00,₹ 0.00,₹ 4.00,Above Average,"Comedy, Drama, Romance",7.7
+788,Dhaai Akshar Prem Ke,₹ 16.00,₹ 8.00,₹ 12.00,₹ 3.00,₹ 8.00,Flop,Drama,7.7
+789,Shikara,₹ 11.00,₹ 8.00,₹ 10.00,₹ 1.00,₹ 25.00,Flop,Drama,7.7
+790,Rashtra Kavach: OM,₹ 4.00,₹ 8.00,₹ 9.00,₹ 1.00,₹ 1.00,flop,"Comedy, Drama",7.7
+791,Sita Ramam,₹ 94.00,₹ 8.00,₹ 77.00,₹ 17.00,₹ 25.00,Blockbuster,"Drama, History, War",7.7
+792,B.A. Pass,₹ 11.00,₹ 8.00,₹ 11.00,₹ 0.00,₹ 6.00,Average,"Crime, Drama, Thriller",7.7
+793,Mere Yaar Ki Shaadi Hai,₹ 15.00,₹ 8.00,₹ 12.00,₹ 2.00,₹ 5.00,Above Average,"Drama, Thriller",7.7
+794,Welcome 2 Karachi,₹ 13.00,₹ 8.00,₹ 11.00,₹ 2.00,₹ 25.00,Disaster,"Drama, Music",7.7
+795,Daddy,₹ 11.00,₹ 8.00,₹ 11.00,₹ 0.00,₹ 1.00,flop,"Comedy, Drama, Music",7.7
+796,Mard,₹ 16.00,₹ 8.00,₹ 16.00,₹ 0.00,₹ 1.00,Blockbuster,"Crime, Thriller",7.7
+797,Raja Babu,₹ 15.00,₹ 8.00,₹ 15.00,₹ 0.00,₹ 2.00,SuperHit,"Animation, Action, Fantasy",7.7
+798,Haseena Parkar,₹ 11.00,₹ 8.00,₹ 11.00,₹ 0.00,₹ 15.00,Disaster,"Adventure, Comedy, Crime",7.7
+799,Jism,₹ 12.00,₹ 7.00,₹ 12.00,₹ 0.00,₹ 3.00,Hit,"Adventure, Comedy, Drama",7.7
+800,Varisu,₹ 297.00,₹ 7.00,₹ 208.00,₹ 89.00,₹ 200.00,SuperHit,"Animation, Comedy, Fantasy",7.7
+801,Tango Charlie,₹ 12.00,₹ 7.00,₹ 11.00,₹ 1.00,₹ 14.00,Flop,Comedy,7.7
+802,Main Khiladi Tu Anari,₹ 13.00,₹ 7.00,₹ 10.00,₹ 3.00,₹ 3.00,Hit,"Comedy, Drama",7.7
+803,Talaash: The Hunt Begins...,₹ 14.00,₹ 7.00,₹ 10.00,₹ 4.00,₹ 9.00,Flop,"Crime, Drama, Thriller",7.7
+804,Ram Gopal Varma Ki Aag,₹ 13.00,₹ 7.00,₹ 11.00,₹ 2.00,₹ 20.00,Disaster,"Comedy, Drama, Romance",7.7
+805,Kyo Kii Main Jhuth Nahin Bolta,₹ 13.00,₹ 7.00,₹ 12.00,₹ 0.00,₹ 8.00,Below Average,"Drama, Mystery, ",7.7
+806,Eternals,"₹ 1,300.00",₹ 7.00,₹ 32.00,₹ 670.00,"₹ 1,500.00",flop,"Comedy, Drama, Fantasy",7.7
+807,Gumraah,₹ 9.00,₹ 7.00,₹ 8.00,₹ 0.00,₹ 25.00,Flop,"Comedy, Drama, Romance",7.7
+808,Ishq Vishk,₹ 10.00,₹ 7.00,₹ 10.00,₹ 0.00,₹ 5.00,Hit,"Action, Adventure, ",7.7
+809,Yeh Raaste Hain Pyaar Ke,₹ 14.00,₹ 7.00,₹ 12.00,₹ 2.00,₹ 8.00,Below Average,Comedy,7.7
+810,Prem Granth,₹ 13.00,₹ 7.00,₹ 12.00,₹ 0.00,₹ 5.00,Average,"Biography, Crime, Drama",7.7
+811,Tere Mere Sapne,₹ 13.00,₹ 7.00,₹ 13.00,₹ 0.00,₹ 3.00,Hit,"Biography, Drama, Music",7.7
+812,Dus Kahaniyaan,₹ 12.00,₹ 7.00,₹ 10.00,₹ 2.00,₹ 20.00,Disaster,"Crime, Drama, Mystery",7.7
+813,Kaalakaandi,₹ 0.00,₹ 7.00,₹ 0.00,₹ 0.00,₹ 25.00,Flop,Drama,7.7
+814,One Two Three,₹ 0.00,₹ 7.00,₹ 0.00,₹ 0.00,₹ 1.00,flop,"Drama, Family, Fantasy",7.7
+815,Kya Yehi Pyaar Hai,₹ 12.00,₹ 7.00,₹ 11.00,₹ 0.00,₹ 5.00,Average,"Comedy, Crime, Drama",7.7
+816,777 Charlie,₹ 102.00,₹ 7.00,₹ 96.00,₹ 5.00,₹ 15.00,Blockbuster,"Biography, Comedy, Drama",7.7
+817,Joru Ka Ghulam,₹ 12.00,₹ 7.00,₹ 11.00,₹ 0.00,₹ 5.00,Average,Comedy,7.7
+818,Jis Desh Mein Ganga Rehta Hain,₹ 12.00,₹ 7.00,₹ 12.00,₹ 0.00,₹ 7.00,Below Average,"Comedy, Drama",7.7
+819,Road,₹ 12.00,₹ 7.00,₹ 11.00,₹ 0.00,₹ 5.00,Average,Drama,7.7
+820,IB 71,₹ 9.00,₹ 7.00,₹ 8.00,₹ 1.00,₹ 1.00,flop,"Comedy, Drama, Family",7.7
+821,Bank Chor,₹ 10.00,₹ 7.00,₹ 10.00,₹ 0.00,₹ 15.00,Flop,"Biography, Drama, History",7.7
+822,The Legend of Bhagat Singh,₹ 11.00,₹ 7.00,₹ 10.00,₹ 0.00,₹ 18.00,Disaster,"Action, Adventure, Drama",7.7
+823,Baazigar,₹ 13.00,₹ 7.00,₹ 13.00,₹ 0.00,₹ 2.00,SuperHit,"Animation, Adventure, Comedy",7.7
+824,Main Aurr Mrs Khanna,₹ 14.00,₹ 7.00,₹ 9.00,₹ 4.00,₹ 28.00,Disaster,"Crime, Drama, Mystery",7.7
+825,Zeher,₹ 10.00,₹ 7.00,₹ 9.00,₹ 0.00,₹ 5.00,Average,"Drama, Thriller",7.7
+826,Deewana,₹ 13.00,₹ 7.00,₹ 13.00,₹ 0.00,₹ 4.00,Hit,Drama,7.7
+827,Amar Akbar Anthony,₹ 0.00,₹ 7.00,₹ 0.00,₹ 0.00,₹ 1.00,Blockbuster,"Comedy, Drama, Thriller",7.7
+828,Godzilla vs. Kong,"₹ 2,500.00",₹ 7.00,₹ 55.00,"₹ 1,900.00","₹ 1,300.00",Hit,"Crime, Drama, Thriller",7.7
+829,Shang-Chi and the Legend of the Ten Rings,₹ 930.00,₹ 7.00,₹ 12.00,₹ 410.00,"₹ 1,150.00",flop,"Animation, Adventure, Comedy",7.7
+830,Aap Ki Khatir,₹ 14.00,₹ 7.00,₹ 11.00,₹ 3.00,₹ 15.00,Flop,"Mystery, Thriller",7.7
+831,Raman Raghav 2.0,₹ 10.00,₹ 7.00,₹ 9.00,₹ 1.00,₹ 10.00,Flop,"Comedy, Drama",7.7
+832,Jaal: The Trap,₹ 11.00,₹ 7.00,₹ 10.00,₹ 0.00,₹ 10.00,Flop,"Biography, Drama, History",7.7
+833,Dil,₹ 17.00,₹ 7.00,₹ 12.00,₹ 5.00,₹ 2.00,Blockbuster,"Action, Drama, History",7.7
+834,Knock Out,₹ 10.00,₹ 6.00,₹ 9.00,₹ 0.00,₹ 25.00,Disaster,"Crime, Drama, Mystery",7.7
+835,Laadla,₹ 12.00,₹ 6.00,₹ 12.00,₹ 0.00,₹ 3.00,Hit,"Drama, Mystery, Thriller",7.7
+836,Kalyug,₹ 9.00,₹ 6.00,₹ 9.00,₹ 0.00,₹ 4.00,Above Average,"Comedy, Fantasy, Romance",7.7
+837,Chocolate,₹ 10.00,₹ 6.00,₹ 9.00,₹ 0.00,₹ 9.00,Flop,"Comedy, Crime, Drama",7.7
+838,Akele Hum Akele Tum,₹ 12.00,₹ 6.00,₹ 11.00,₹ 0.00,₹ 4.00,Below Average,Comedy,7.7
+839,Suhaag,₹ 12.00,₹ 6.00,₹ 11.00,₹ 0.00,₹ 3.00,Hit,Drama,7.7
+840,Khamoshi: The Musical,₹ 14.00,₹ 6.00,₹ 11.00,₹ 2.00,₹ 6.00,Flop,"Action, Adventure, ",7.7
+841,Venom: Let There Be Carnage,"₹ 1,460.00",₹ 6.00,₹ 3.00,₹ 340.00,₹ 820.00,flop,"Action, Adventure",7.7
+842,Goodbye,₹ 10.00,₹ 6.00,₹ 8.00,₹ 2.00,₹ 25.00,Flop,Drama,7.7
+843,Prassthanam,₹ 10.00,₹ 6.00,₹ 8.00,₹ 2.00,₹ 40.00,Disaster,Comedy,7.7
+844,Sapoot,₹ 12.00,₹ 6.00,₹ 10.00,₹ 2.00,₹ 5.00,Average,"Animation, Adventure, Family",7.7
+845,Jeena Sirf Merre Liye,₹ 12.00,₹ 6.00,₹ 10.00,₹ 1.00,₹ 8.00,Flop,"Horror, Thriller",7.7
+846,Deewane,₹ 12.00,₹ 6.00,₹ 10.00,₹ 1.00,₹ 8.00,Flop,"Drama, Thriller",7.7
+847,Armaan,₹ 13.00,₹ 6.00,₹ 9.00,₹ 4.00,₹ 8.00,Flop,"Comedy, War",7.7
+848,Dil Ne Jise Apna Kahaa,₹ 12.00,₹ 6.00,₹ 9.00,₹ 3.00,₹ 10.00,Flop,"Action, Crime, Thriller",7.7
+849,Sonchiriya,₹ 8.00,₹ 6.00,₹ 7.00,₹ 0.00,₹ 30.00,Disaster,"Comedy, Western",7.7
+850,Kahin Pyaar Na Ho Jaaye,₹ 13.00,₹ 6.00,₹ 11.00,₹ 2.00,₹ 8.00,Flop,"Biography, Crime, Drama",7.7
+851,Sooryavansham,₹ 12.00,₹ 6.00,₹ 11.00,₹ 1.00,₹ 7.00,Flop,"Action, Crime, Drama",7.7
+852,Bhaiaji Superhit,₹ 8.00,₹ 6.00,₹ 8.00,₹ 0.00,₹ 40.00,Disaster,"Adventure, Drama, Thriller",7.7
+853,Daraar,₹ 10.00,₹ 6.00,₹ 10.00,₹ 0.00,₹ 5.00,Below Average,"Action, Crime, Drama",7.7
+854,Army,₹ 11.00,₹ 6.00,₹ 10.00,₹ 0.00,₹ 4.00,Average,"Action, Crime, Thriller",7.7
+855,Vijaypath,₹ 11.00,₹ 6.00,₹ 8.00,₹ 2.00,₹ 2.00,SuperHit,"Action, Adventure, War",7.7
+856,Blank,₹ 8.00,₹ 6.00,₹ 7.00,₹ 1.00,₹ 30.00,Disaster,Comedy,7.7
+857,Chef,₹ 10.00,₹ 6.00,₹ 8.00,₹ 1.00,₹ 13.00,Disaster,"Action, Adventure, War",7.7
+858,Calendar Girls,₹ 8.00,₹ 6.00,₹ 8.00,₹ 0.00,₹ 12.00,Flop,"Drama, Romance",7.7
+859,Dilwale,₹ 12.00,₹ 6.00,₹ 8.00,₹ 3.00,₹ 2.00,SuperHit,"Biography, Drama, History",7.7
+860,Maharaja,₹ 10.00,₹ 6.00,₹ 9.00,₹ 0.00,₹ 5.00,Average,"Drama, Horror, Thriller",7.7
+861,Tezaab,₹ 16.00,₹ 6.00,₹ 11.00,₹ 5.00,₹ 1.00,Blockbuster,"Drama, History, War",7.7
+862,Haqeeqat,₹ 10.00,₹ 6.00,₹ 10.00,₹ 0.00,₹ 4.00,Average,"Action, Adventure, Thriller",7.7
+863,Damini â€“ Lightning,₹ 11.00,₹ 6.00,₹ 11.00,₹ 0.00,₹ 2.00,Hit,"Drama, Horror, Mystery",7.7
+864,Phool Aur Kaante,₹ 11.00,₹ 6.00,₹ 11.00,₹ 0.00,₹ 2.00,SuperHit,"Drama, Thriller",7.7
+865,Sadak,₹ 10.00,₹ 6.00,₹ 10.00,₹ 0.00,₹ 3.00,SuperHit,"Drama, Horror, Thriller",7.7
+866,Yeh Dil Aashiqanaa,₹ 9.00,₹ 6.00,₹ 9.00,₹ 0.00,₹ 4.00,Average,"Action, Adventure, Western",7.7
+867,Pyaar Impossible!,₹ 9.00,₹ 6.00,₹ 8.00,₹ 0.00,₹ 12.00,Flop,"Drama, Horror",7.7
+868,Top Gun: Maverick,"₹ 12,250.00",₹ 5.00,₹ 51.00,"₹ 12,199.00","₹ 1,300.00",Hit,"Drama, Horror, ",7.7
+869,Genius,₹ 7.00,₹ 5.00,₹ 7.00,₹ 0.00,₹ 30.00,Disaster,Drama,7.7
+870,Sangharsh,₹ 10.00,₹ 5.00,₹ 7.00,₹ 2.00,₹ 4.00,Average,"Comedy, Crime",7.7
+871,Jung,₹ 10.00,₹ 5.00,₹ 9.00,₹ 1.00,₹ 4.00,Above Average,"Comedy, Drama, Romance",7.7
+872,Rudraksh,₹ 9.00,₹ 5.00,₹ 8.00,₹ 1.00,₹ 15.00,Disaster,"Comedy, Drama, Romance",7.7
+873,Kuttey,₹ 8.00,₹ 5.00,₹ 6.00,₹ 1.00,₹ 50.00,Disaster,"Drama, ",7.7
+874,Khiladi 420,₹ 10.00,₹ 5.00,₹ 7.00,₹ 2.00,₹ 8.00,Flop,"Adventure, Drama, Romance",7.7
+875,Do Lafzon Ki Kahani,₹ 7.00,₹ 5.00,₹ 7.00,₹ 0.00,₹ 11.00,Flop,"Drama, Film-Noir, Romance",7.7
+876,Vaah! Life Ho Toh Aisi!,₹ 8.00,₹ 5.00,₹ 7.00,₹ 0.00,₹ 10.00,Flop,"Animation, Family, Fantasy",7.7
+877,Hulchul,₹ 8.00,₹ 5.00,₹ 8.00,₹ 0.00,₹ 4.00,Below Average,"Horror, ",7.7
+878,Insaniyat,₹ 10.00,₹ 5.00,₹ 9.00,₹ 0.00,₹ 4.00,Below Average,"Biography, Drama, History",7.6
+879,Anari,₹ 10.00,₹ 5.00,₹ 10.00,₹ 0.00,₹ 2.00,Hit,"Drama, Mystery, Thriller",7.6
+880,Aarzoo,₹ 11.00,₹ 5.00,₹ 7.00,₹ 4.00,₹ 8.00,Flop,"Comedy, Drama",7.6
+881,Noor,₹ 0.00,₹ 5.00,₹ 0.00,₹ 0.00,₹ 1.00,flop,Drama,7.6
+882,Stanley Ka Dabba,₹ 7.00,₹ 5.00,₹ 7.00,₹ 0.00,₹ 4.00,Below Average,Drama,7.6
+883,Masoom,₹ 8.00,₹ 5.00,₹ 8.00,₹ 0.00,₹ 1.00,Hit,"Biography, Crime, Drama",7.6
+884,Yeh Dillagi,₹ 10.00,₹ 5.00,₹ 10.00,₹ 0.00,₹ 2.00,Hit,Drama,7.6
+885,Aflatoon,₹ 9.00,₹ 5.00,₹ 7.00,₹ 2.00,₹ 4.00,Below Average,"Adventure, Comedy, Drama",7.6
+886,Bobby,₹ 29.00,₹ 5.00,₹ 10.00,₹ 19.00,₹ 1.00,Blockbuster,"Crime, Drama, Romance",7.6
+887,Mr. India,₹ 10.00,₹ 5.00,₹ 10.00,₹ 0.00,₹ 2.00,SuperHit,Drama,7.6
+888,Mughal-e-Azam,₹ 10.00,₹ 5.00,₹ 10.00,₹ 0.00,₹ 0.00,All Time Blockbuster,"Action, Adventure, Comedy",7.6
+889,Dil Ka Rishta,₹ 13.00,₹ 5.00,₹ 7.00,₹ 5.00,₹ 8.00,Flop,"Action, Crime, Drama",7.6
+890,Rehnaa Hai Terre Dil Mein,₹ 10.00,₹ 5.00,₹ 8.00,₹ 1.00,₹ 5.00,Below Average,"Action, Biography, Drama",7.6
+891,Bewafa Sanam,₹ 7.00,₹ 5.00,₹ 7.00,₹ 0.00,₹ 1.00,SuperHit,"Drama, History, Thriller",7.6
+892,Yeh Hai Jalwa,₹ 9.00,₹ 5.00,₹ 7.00,₹ 1.00,₹ 7.00,Flop,"Animation, Action, Adventure",7.6
+893,Sirf Tum,₹ 10.00,₹ 5.00,₹ 9.00,₹ 1.00,₹ 2.00,Hit,"Animation, Adventure, Comedy",7.6
+894,Khichdi: The Movie,₹ 7.00,₹ 5.00,₹ 7.00,₹ 0.00,₹ 4.00,Average,"Action, Crime, Drama",7.6
+895,Bangistan,₹ 8.00,₹ 5.00,₹ 7.00,₹ 1.00,₹ 25.00,Disaster,"Drama, Sport",7.6
+896,Style,₹ 7.00,₹ 5.00,₹ 7.00,₹ 0.00,₹ 2.00,Above Average,"Crime, Drama",7.6
+897,Aunty No. 1,₹ 9.00,₹ 5.00,₹ 9.00,₹ 0.00,₹ 4.00,Below Average,"Action, Crime, Drama",7.6
+898,Hum Hain Rahi Pyar Ke,₹ 9.00,₹ 5.00,₹ 8.00,₹ 1.00,₹ 2.00,SuperHit,"Biography, Comedy, Drama",7.6
+899,Roti Kapda Aur Makaan,₹ 10.00,₹ 5.00,₹ 10.00,₹ 0.00,₹ 1.00,Blockbuster,"Action, Adventure, Drama",7.6
+900,Lahu Ke Do Rang,₹ 9.00,₹ 5.00,₹ 6.00,₹ 2.00,₹ 5.00,Flop,"Mystery, Thriller",7.6
+901,Andaz Apna Apna,₹ 7.00,₹ 5.00,₹ 7.00,₹ 0.00,₹ 3.00,Average,"Action, Thriller",7.6
+902,Kyaa Dil Ne Kahaa,₹ 8.00,₹ 5.00,₹ 7.00,₹ 1.00,₹ 6.00,Below Average,"Action, Crime, Drama",7.6
+903,Ravan Raaj: A True Story,₹ 7.00,₹ 5.00,₹ 7.00,₹ 0.00,₹ 2.00,Hit,"Animation, Adventure, Family",7.6
+904,Baazi,₹ 7.00,₹ 4.00,₹ 7.00,₹ 0.00,₹ 3.00,Below Average,"Drama, Music, Romance",7.6
+905,Notebook,₹ 6.00,₹ 4.00,₹ 6.00,₹ 0.00,₹ 20.00,Flop,"Drama, Western",7.6
+906,Indu Sarkar,₹ 6.00,₹ 4.00,₹ 6.00,₹ 0.00,₹ 1.00,flop,"Drama, Romance",7.6
+907,Game Over,₹ 16.00,₹ 4.00,₹ 14.00,₹ 1.00,₹ 20.00,Below Average,"Animation, Comedy, Crime",7.6
+908,Nil Battey Sannata,₹ 6.00,₹ 4.00,₹ 6.00,₹ 0.00,₹ 7.00,Flop,"Comedy, Drama, Romance",7.6
+909,The Zoya Factor,₹ 8.00,₹ 4.00,₹ 6.00,₹ 1.00,₹ 30.00,Disaster,"Action, Comedy, Crime",7.6
+910,Dobaaraa,₹ 1.00,₹ 4.00,₹ 5.00,₹ 0.00,₹ 1.00,flop,"Action, Adventure, Crime",7.6
+911,Dasara,₹ 118.00,₹ 4.00,₹ 96.00,₹ 22.00,₹ 65.00,SuperHit,"Biography, Drama, Sport",7.6
+912,Zamana Deewana,₹ 7.00,₹ 4.00,₹ 6.00,₹ 0.00,₹ 4.00,Flop,"Drama, Horror, Thriller",7.6
+913,Elaan,₹ 8.00,₹ 4.00,₹ 8.00,₹ 0.00,₹ 1.00,Hit,"Adventure, Comedy, Fantasy",7.6
+914,Tutak Tutak Tutiya,₹ 6.00,₹ 4.00,₹ 6.00,₹ 0.00,₹ 11.00,Flop,"Drama, Thriller",7.6
+915,Helicopter Eela,₹ 7.00,₹ 4.00,₹ 5.00,₹ 1.00,₹ 15.00,Flop,"Action, Adventure, Mystery",7.6
+916,Bol Radha Bol,₹ 8.00,₹ 4.00,₹ 8.00,₹ 0.00,₹ 2.00,Hit,"Biography, Drama, Sport",7.6
+917,Tum Bin 2,₹ 6.00,₹ 4.00,₹ 6.00,₹ 0.00,₹ 15.00,Flop,Drama,7.6
+918,Khuddar,₹ 7.00,₹ 4.00,₹ 7.00,₹ 0.00,₹ 1.00,Above Average,Drama,7.6
+919,Tum Bin - Love Will Find a Way,₹ 7.00,₹ 4.00,₹ 6.00,₹ 0.00,₹ 2.00,Average,"Action, Crime, Drama",7.6
+920,Taarzan: The Wonder Car,₹ 6.00,₹ 4.00,₹ 5.00,₹ 0.00,₹ 14.00,Disaster,"Adventure, Family, Fantasy",7.6
+921,Junooniyat,₹ 5.00,₹ 4.00,₹ 5.00,₹ 0.00,₹ 11.00,Disaster,"Animation, Adventure, Family",7.6
+922,Shazam! Fury Of The Gods,"₹ 1,100.00",₹ 4.00,₹ 19.00,₹ 620.00,₹ 900.00,flop,"Crime, Drama, Mystery",7.6
+923,Khiladi,₹ 7.00,₹ 4.00,₹ 6.00,₹ 1.00,₹ 2.00,SuperHit,"Crime, Drama, Mystery",7.6
+924,Mother India,₹ 9.00,₹ 4.00,₹ 8.00,₹ 0.00,₹ 1.00,All Time Blockbuster,"Biography, Drama, Music",7.6
+925,Sanam Bewafa,₹ 8.00,₹ 4.00,₹ 8.00,₹ 0.00,₹ 2.00,Hit,"Action, Biography, Drama",7.6
+926,Chandni Bar,₹ 6.00,₹ 4.00,₹ 6.00,₹ 0.00,₹ 1.00,Hit,"Drama, Fantasy, Mystery",7.6
+927,Maidan-E-Jung,₹ 6.00,₹ 4.00,₹ 6.00,₹ 0.00,₹ 3.00,Below Average,"Crime, Drama, Thriller",7.6
+928,Dil Hai Ke Manta Nahin,₹ 7.00,₹ 4.00,₹ 6.00,₹ 1.00,₹ 1.00,Hit,"Action, Adventure, Family",7.6
+929,Dhaakad,₹ 0.00,₹ 4.00,₹ 4.00,₹ 0.00,₹ 1.00,Disaster,"Action, Drama",7.6
+930,Kabzaa,₹ 34.00,₹ 4.00,₹ 32.00,₹ 1.00,₹ 1.00,flop,"Drama, Romance, Thriller",7.6
+931,Nanu Ki Jaanu,₹ 0.00,₹ 4.00,₹ 0.00,₹ 0.00,₹ 15.00,Flop,"Action, Drama, Mystery",7.6
+932,Jo Jeeta Wohi Sikander,₹ 6.00,₹ 3.00,₹ 5.00,₹ 1.00,₹ 2.00,Hit,"Action, Crime, Drama",7.6
+933,No Time To Die,"₹ 1,100.00",₹ 3.00,₹ 19.00,"₹ 1,100.00","₹ 1,850.00",flop,"Horror, Mystery, Thriller",7.6
+934,Sangam,₹ 8.00,₹ 3.00,₹ 7.00,₹ 1.00,₹ 0.00,Blockbuster,Drama,7.6
+935,Zamane Se Kya Darna,₹ 6.00,₹ 3.00,₹ 6.00,₹ 0.00,₹ 2.00,Average,Drama,7.6
+936,Kaanchi...,₹ 5.00,₹ 3.00,₹ 5.00,₹ 0.00,₹ 20.00,Disaster,"Comedy, Drama, Romance",7.6
+937,Janhit Mein Jaari,₹ 5.00,₹ 3.00,₹ 4.00,₹ 1.00,₹ 1.00,flop,"Drama, Mystery, Romance",7.6
+938,Kabhi Haan Kabhi Naa,₹ 5.00,₹ 3.00,₹ 5.00,₹ 0.00,₹ 1.00,Above Average,"Comedy, Drama",7.6
+939,Traffic,₹ 5.00,₹ 3.00,₹ 5.00,₹ 0.00,₹ 9.00,Flop,"Crime, Drama, Thriller",7.6
+940,Darbar,₹ 247.00,₹ 3.00,₹ 173.00,₹ 74.00,₹ 200.00,Below Average,"Crime, Drama, Thriller",7.6
+941,Insaaf,₹ 6.00,₹ 3.00,₹ 5.00,₹ 1.00,₹ 3.00,Flop,"Biography, Drama, Family",7.6
+942,Jayantabhai Ki Luv Story,₹ 5.00,₹ 3.00,₹ 5.00,₹ 0.00,₹ 13.00,Disaster,Drama,7.6
+943,Mitron,₹ 5.00,₹ 3.00,₹ 4.00,₹ 0.00,₹ 15.00,Flop,"Drama, , Thriller",7.6
+944,Don,₹ 7.00,₹ 3.00,₹ 7.00,₹ 0.00,₹ 1.00,SuperHit,"Drama, Horror, ",7.6
+945,Fareb,₹ 6.00,₹ 3.00,₹ 6.00,₹ 0.00,₹ 1.00,Hit,"Action, Adventure, Drama",7.6
+946,Masaan,₹ 4.00,₹ 3.00,₹ 4.00,₹ 0.00,₹ 7.00,Disaster,"Comedy, Drama",7.6
+947,Gunga Jumna,₹ 10.00,₹ 3.00,₹ 6.00,₹ 4.00,₹ 0.00,All Time Blockbuster,Drama,7.6
+948,Haathi Mere Saathi,₹ 6.00,₹ 3.00,₹ 6.00,₹ 0.00,₹ 1.00,Blockbuster,"Adventure, Family, Fantasy",7.6
+949,Suraj Pe Mangal Bhari,₹ 4.00,₹ 3.00,₹ 3.00,₹ 0.00,₹ 25.00,flop,"Horror, Mystery, Thriller",7.6
+950,Aashiqui,₹ 5.00,₹ 3.00,₹ 4.00,₹ 0.00,₹ 1.00,Blockbuster,"Biography, Crime, Drama",7.6
+951,Dhokha: Round D Corner,₹ 4.00,₹ 3.00,₹ 3.00,₹ 0.00,₹ 20.00,flop,"Drama, History, War",7.6
+952,Jalebi,₹ 4.00,₹ 3.00,₹ 4.00,₹ 0.00,₹ 1.00,Flop,"Action, Crime, Mystery",7.6
+953,Disco Dancer,₹ 100.00,₹ 3.00,₹ 6.00,₹ 94.00,₹ 2.00,Hit,"Biography, Drama, Sport",7.6
+954,Seeta Aur Geeta,₹ 16.00,₹ 3.00,₹ 6.00,₹ 10.00,₹ 1.00,Blockbuster,"Comedy, Crime, Drama",7.6
+955,Chehre,₹ 4.00,₹ 3.00,₹ 3.00,₹ 0.00,₹ 1.00,flop,"Crime, Drama, Thriller",7.6
+956,Laal Kaptaan,₹ 4.00,₹ 3.00,₹ 3.00,₹ 0.00,₹ 40.00,Disaster,"Drama, War",7.6
+957,Udaan,₹ 4.00,₹ 3.00,₹ 4.00,₹ 0.00,₹ 4.00,Flop,"Animation, Adventure, Family",7.6
+958,Kuch Kuch Locha Hai,₹ 4.00,₹ 3.00,₹ 4.00,₹ 0.00,₹ 13.00,Disaster,"Adventure, Comedy, Drama",7.6
+959,Kaafila,₹ 4.00,₹ 3.00,₹ 3.00,₹ 0.00,₹ 15.00,Disaster,"Crime, Drama, Thriller",7.6
+960,Buddha Mar Gaya,₹ 5.00,₹ 3.00,₹ 4.00,₹ 1.00,₹ 4.00,Flop,"Mystery, , Thriller",7.6
+961,One Night Stand,₹ 4.00,₹ 3.00,₹ 4.00,₹ 0.00,₹ 15.00,Disaster,"Crime, Drama, Thriller",7.6
+962,Zaalim,₹ 5.00,₹ 3.00,₹ 5.00,₹ 0.00,₹ 1.00,Average,"Mystery, Thriller",7.6
+963,Chori Chori,₹ 5.00,₹ 3.00,₹ 4.00,₹ 1.00,₹ 6.00,Flop,"Drama, Romance",7.6
+964,Pihu,₹ 3.00,₹ 3.00,₹ 3.00,₹ 0.00,₹ 2.00,Above Average,"Action, Adventure, Thriller",7.6
+965,Zanjeer,₹ 6.00,₹ 3.00,₹ 6.00,₹ 0.00,₹ 1.00,Blockbuster,"Adventure, Drama, Fantasy",7.6
+966,Waqt,₹ 6.00,₹ 2.00,₹ 5.00,₹ 0.00,₹ 1.00,Blockbuster,"Drama, Romance",7.6
+967,The Batman,"₹ 1,900.00",₹ 2.00,₹ 43.00,₹ 900.00,₹ 1.00,Average,"Adventure, Drama, History",7.6
+968,Hum Hain Bemisaal,₹ 4.00,₹ 2.00,₹ 4.00,₹ 0.00,₹ 2.00,Flop,"Comedy, Drama, Romance",7.6
+969,Mere Mehboob,₹ 5.00,₹ 2.00,₹ 5.00,₹ 0.00,₹ 0.00,Blockbuster,"Action, Crime, Drama",7.6
+970,Angaaray,₹ 5.00,₹ 2.00,₹ 3.00,₹ 1.00,₹ 3.00,Flop,Comedy,7.6
+971,Qayamat Se Qayamat Tak,₹ 5.00,₹ 2.00,₹ 4.00,₹ 1.00,₹ 1.00,SuperHit,"Comedy, Crime",7.6
+972,Waiting,₹ 3.00,₹ 2.00,₹ 3.00,₹ 0.00,₹ 7.00,Disaster,"Animation, Drama, Romance",7.6
+973,Mili,₹ 3.00,₹ 2.00,₹ 3.00,₹ 0.00,₹ 10.00,flop,"Comedy, Crime",7.6
+974,Malaal,₹ 3.00,₹ 2.00,₹ 3.00,₹ 0.00,₹ 10.00,Disaster,"Comedy, Family",7.6
+975,Laila Majnu,₹ 3.00,₹ 2.00,₹ 3.00,₹ 0.00,₹ 10.00,Flop,"Crime, Drama",7.6
+976,Manto,₹ 3.00,₹ 2.00,₹ 3.00,₹ 0.00,₹ 10.00,Disaster,"Comedy, Drama, Romance",7.6
+977,Phool Aur Paththar,₹ 14.00,₹ 2.00,₹ 5.00,₹ 9.00,₹ 0.00,Blockbuster,"Animation, Family, Fantasy",7.6
+978,The Body,₹ 3.00,₹ 2.00,₹ 3.00,₹ 0.00,₹ 30.00,Disaster,"Comedy, Crime",7.6
+979,Master,₹ 223.00,₹ 2.00,₹ 178.00,₹ 44.00,₹ 135.00,Blockbuster,"Comedy, Drama",7.6
+980,Aggar,₹ 9.00,₹ 2.00,₹ 8.00,₹ 1.00,₹ 1.00,flop,"Action, Crime, Thriller",7.6
+981,Jai Kishen,₹ 4.00,₹ 2.00,₹ 4.00,₹ 0.00,₹ 2.00,Average,"Crime, Drama, Thriller",7.6
+982,Phobia,₹ 3.00,₹ 2.00,₹ 3.00,₹ 0.00,₹ 8.00,Disaster,Drama,7.6
+983,Mard Ko Dard Nahi Hota,₹ 3.00,₹ 2.00,₹ 3.00,₹ 0.00,₹ 21.00,Disaster,"Action, Adventure, ",7.6
+984,Aligarh,₹ 3.00,₹ 2.00,₹ 3.00,₹ 0.00,₹ 11.00,Disaster,"Action, Crime, Thriller",7.6
+985,Bhangra Paa Le,₹ 2.00,₹ 2.00,₹ 2.00,₹ 0.00,₹ 8.00,flop,"Adventure, Comedy, Family",7.6
+986,Fantastic Beasts: The Secrets of Dumbledore,₹ 0.00,₹ 2.00,₹ 11.00,₹ 0.00,₹ 1.00,Average,"Action, Biography, Crime",7.6
+987,Salaam Venky,₹ 3.00,₹ 2.00,₹ 2.00,₹ 0.00,₹ 15.00,flop,"Animation, Adventure, Drama",7.6
+988,Uncharted,"₹ 1,100.00",₹ 2.00,₹ 10.00,₹ 670.00,₹ 900.00,Flop,"Biography, Crime, Drama",7.6
+989,Pailwaan,₹ 52.00,₹ 2.00,₹ 48.00,₹ 4.00,₹ 40.00,Average,"Drama, ",7.6
+990,Gandhi Godse Ek Yudh,₹ 0.00,₹ 2.00,₹ 0.00,₹ 0.00,₹ 1.00,flop,"Comedy, Crime, Drama",7.6
+991,Mere Jeevan Saathi,₹ 3.00,₹ 2.00,₹ 3.00,₹ 0.00,₹ 11.00,Disaster,"Drama, War, Western",7.6
+992,Shabaash Mithu,₹ 1.00,₹ 2.00,₹ 2.00,₹ 0.00,₹ 1.00,flop,"Adventure, Comedy, War",7.6
+993,Bheed,₹ 2.00,₹ 2.00,₹ 2.00,₹ 0.00,₹ 1.00,flop,"Animation, Adventure, Family",7.6
+994,Jai Mummy Di,₹ 3.00,₹ 2.00,₹ 2.00,₹ 0.00,₹ 20.00,flop,"Drama, Mystery, Thriller",7.6
+995,Love Sonia,₹ 3.00,₹ 2.00,₹ 3.00,₹ 0.00,₹ 15.00,Flop,"Comedy, Music, Musical",7.6
+996,Nikamma,₹ 0.00,₹ 2.00,₹ 2.00,₹ 0.00,₹ 1.00,flop,"Comedy, Drama, Romance",7.6
+997,Saugandh,₹ 3.00,₹ 2.00,₹ 3.00,₹ 0.00,₹ 2.00,Average,"Drama, Western",7.6
+998,Akaash Vani,₹ 3.00,₹ 2.00,₹ 2.00,₹ 0.00,₹ 10.00,Disaster,"Drama, Romance, War",7.6
+999,Zwigato,₹ 1.00,₹ 2.00,₹ 1.00,₹ 0.00,₹ 1.00,flop,"Drama, War",7.6
+1000,FryDay,₹ 2.00,₹ 2.00,₹ 2.00,₹ 0.00,₹ 15.00,Disaster,"Crime, Mystery, Thriller",7.6
